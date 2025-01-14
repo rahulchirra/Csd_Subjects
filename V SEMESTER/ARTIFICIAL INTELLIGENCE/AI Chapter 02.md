@@ -1,52 +1,55 @@
-## Chapter: Advanced Search & Knowledge Representation and Reasoning
+# UNIT-II: Advanced Search and Knowledge Representation
 
-### 1️⃣ **Constructing Search Trees**
-   - **YouTube Search**: [Constructing Search Trees - YouTube](https://www.youtube.com/results?search_query=Constructing+Search+Trees)
-   - **Web Tutorial**: [Constructing Search Trees Tutorial](https://www.geeksforgeeks.org/search-tree-data-structure/)
-   
-### 2️⃣ **Stochastic Search**
-   - **YouTube Search**: [Stochastic Search - YouTube](https://www.youtube.com/results?search_query=Stochastic+Search)
-   - **Web Tutorial**: [Stochastic Search Overview](https://www.tutorialspoint.com/artificial_intelligence/ai_stochastic_search.htm)
+## 📚 Table of Contents
 
-### 3️⃣ **A* Search Implementation**
-   - **YouTube Search**: [A* Search Algorithm Implementation - YouTube](https://www.youtube.com/results?search_query=A%2A+Search+Algorithm+Implementation)
-   - **Web Tutorial**: [A* Search Algorithm Tutorial](https://www.geeksforgeeks.org/a-search-algorithm/)
-   
-### 4️⃣ **Minimax Search**
-   - **YouTube Search**: [Minimax Search - YouTube](https://www.youtube.com/results?search_query=Minimax+Search)
-   - **Web Tutorial**: [Minimax Search Algorithm Explained](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory/)
-   
-### 5️⃣ **Alpha-Beta Pruning**
-   - **YouTube Search**: [Alpha-Beta Pruning - YouTube](https://www.youtube.com/results?search_query=Alpha-Beta+Pruning)
-   - **Web Tutorial**: [Alpha-Beta Pruning Tutorial](https://www.geeksforgeeks.org/alpha-beta-pruning/)
-   
-### 6️⃣ **Propositional Logic**
-   - **YouTube Search**: [Propositional Logic - YouTube](https://www.youtube.com/results?search_query=Propositional+Logic)
-   - **Web Tutorial**: [Propositional Logic Overview](https://www.tutorialspoint.com/propositional-logic)
+### 1. 🔍 **Advanced Search**  
+   - Constructing Search Trees  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=Constructing+Search+Trees+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=Constructing+Search+Trees+tutorial)  
+   - Stochastic Search  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=Stochastic+Search+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=Stochastic+Search+tutorial)  
+   - A* Search Implementation  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=A*+Search+Implementation+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=A*+Search+Implementation+tutorial)  
+   - Minimax Search  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=Minimax+Search+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=Minimax+Search+tutorial)  
+   - Alpha-Beta Pruning  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=Alpha-Beta+Pruning+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=Alpha-Beta+Pruning+tutorial)  
 
-### 7️⃣ **First-Order Logic**
-   - **YouTube Search**: [First-Order Logic - YouTube](https://www.youtube.com/results?search_query=First-Order+Logic)
-   - **Web Tutorial**: [Introduction to First-Order Logic](https://www.tutorialspoint.com/discrete_mathematics/first_order_logic.htm)
-
-### 8️⃣ **Forward Chaining and Backward Chaining**
-   - **YouTube Search**: [Forward Chaining and Backward Chaining - YouTube](https://www.youtube.com/results?search_query=Forward+Chaining+and+Backward+Chaining)
-   - **Web Tutorial**: [Forward and Backward Chaining Concepts](https://www.geeksforgeeks.org/introduction-to-forward-and-backward-chaining-in-artificial-intelligence/)
-
-### 9️⃣ **Introduction to Probabilistic Reasoning**
-   - **YouTube Search**: [Introduction to Probabilistic Reasoning - YouTube](https://www.youtube.com/results?search_query=Introduction+to+Probabilistic+Reasoning)
-   - **Web Tutorial**: [Probabilistic Reasoning Overview](https://www.tutorialspoint.com/probabilistic-reasoning)
-
-### 🔟 **Bayes Theorem**
-   - **YouTube Search**: [Bayes Theorem - YouTube](https://www.youtube.com/results?search_query=Bayes+Theorem)
-   - **Web Tutorial**: [Bayes Theorem Tutorial](https://www.geeksforgeeks.org/bayes-theorem-in-probability/)
+### 2. 📖 **Basic Knowledge Representation and Reasoning**  
+   - Propositional Logic  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=Propositional+Logic+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=Propositional+Logic+tutorial)  
+   - First-Order Logic  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=First-Order+Logic+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=First-Order+Logic+tutorial)  
+   - Forward Chaining and Backward Chaining  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=Forward+Chaining+and+Backward+Chaining+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=Forward+Chaining+and+Backward+Chaining+tutorial)  
+   - Introduction to Probabilistic Reasoning  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=Introduction+to+Probabilistic+Reasoning+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=Introduction+to+Probabilistic+Reasoning+tutorial)  
+   - Bayes Theorem  
+     - [YouTube Tutorials](https://www.youtube.com/results?search_query=Bayes+Theorem+tutorial)  
+     - [Web Tutorials](https://www.google.com/search?q=Bayes+Theorem+tutorial)  
 
 ---
 
-## Study Tips:
-1. Start with watching the YouTube videos for each topic to understand the concepts visually.
-2. Follow along with the web tutorials to practice solving problems related to each topic.
-3. Test your knowledge by trying to implement algorithms and logic systems discussed in the tutorials.
+### 🗓️ Study Schedule  
+- **Day 1**: Topics 1-3 (Advanced Search)  
+- **Day 2**: Topics 4-5 (Knowledge Representation and Reasoning)  
 
 ---
 
-Good luck with your preparation! 🚀
+### 🛠️ Tips for Exam Preparation  
+- Use examples to practice search algorithms and logical reasoning.  
+- Watch YouTube tutorials for a practical understanding of concepts.  
+- Solve problems related to probabilistic reasoning and Bayes Theorem.  
+- Discuss strategies with peers to strengthen understanding.  
+
+---
+
+Let me know if you need further edits or additions!
