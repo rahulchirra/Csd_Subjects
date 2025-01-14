@@ -2,7 +2,7 @@
 
 ## 📚 Table of Contents
 
-1. 🖥️ **Introduction to Operating Systems**  
+1. 📂 **Introduction to Operating Systems**  
    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Introduction+to+Operating+Systems)  
    - [Web Tutorials](https://www.google.com/search?q=Introduction+to+Operating+Systems+tutorial)
 
@@ -14,7 +14,7 @@
    - [YouTube Tutorials](https://www.youtube.com/results?search_query=User+View+vs+System+View+in+Operating+System)  
    - [Web Tutorials](https://www.google.com/search?q=User+View+vs+System+View+in+Operating+System+tutorial)
 
-4. 🗞️ **Operating System Definition**  
+4. 📖 **Operating System Definition**  
    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Definition+of+Operating+System)  
    - [Web Tutorials](https://www.google.com/search?q=Definition+of+Operating+System+tutorial)
 
@@ -26,7 +26,7 @@
    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Computer+System+Architecture)  
    - [Web Tutorials](https://www.google.com/search?q=Computer+System+Architecture+tutorial)
 
-7. 🏢 **OS Structure**  
+7. 🏗️ **OS Structure**  
    - [YouTube Tutorials](https://www.youtube.com/results?search_query=OS+Structure)  
    - [Web Tutorials](https://www.google.com/search?q=OS+Structure+tutorial)
 
@@ -34,37 +34,36 @@
    - [YouTube Tutorials](https://www.youtube.com/results?search_query=OS+Operations)  
    - [Web Tutorials](https://www.google.com/search?q=OS+Operations+tutorial)
 
-9. 📝 **Process Management**  
-   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Process+Management+in+Operating+System)  
-   - [Web Tutorials](https://www.google.com/search?q=Process+Management+in+Operating+System+tutorial)
+9. ✨ **Operating System Services**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Operating+System+Services)  
+   - [Web Tutorials](https://www.google.com/search?q=Operating+System+Services+tutorial)
 
-10. 🧠 **Memory Management**  
-    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Memory+Management+in+Operating+System)  
-    - [Web Tutorials](https://www.google.com/search?q=Memory+Management+in+Operating+System+tutorial)
+10. 🌐 **User and OS Interface**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=User+and+OS+Interface)  
+    - [Web Tutorials](https://www.google.com/search?q=User+and+OS+Interface+tutorial)
 
-11. 💾 **Storage Management**  
-    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Storage+Management+in+Operating+System)  
-    - [Web Tutorials](https://www.google.com/search?q=Storage+Management+in+Operating+System+tutorial)
+11. ☎️ **System Calls**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=System+Calls+in+Operating+System)  
+    - [Web Tutorials](https://www.google.com/search?q=System+Calls+in+Operating+System+tutorial)
 
-12. 🔒 **Protection and Security**  
-    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Protection+and+Security+in+Operating+System)  
-    - [Web Tutorials](https://www.google.com/search?q=Protection+and+Security+in+Operating+System+tutorial)
+12. 📚 **Types of System Calls**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Types+of+System+Calls+in+Operating+System)  
+    - [Web Tutorials](https://www.google.com/search?q=Types+of+System+Calls+in+Operating+System+tutorial)
 
-13. 🔄 **Special Purpose Systems**  
-    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Special+Purpose+Systems+in+Operating+System)  
-    - [Web Tutorials](https://www.google.com/search?q=Special+Purpose+Systems+in+Operating+System+tutorial)
+13. 🖥️ **System Programs**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=System+Programs+in+Operating+System)  
+    - [Web Tutorials](https://www.google.com/search?q=System+Programs+in+Operating+System+tutorial)
 
-14. 🌐 **Computing Environments**  
-    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Computing+Environments+in+Operating+System)  
-    - [Web Tutorials](https://www.google.com/search?q=Computing+Environments+in+Operating+System+tutorial)
+14. 🛠️ **Operating System Design and Implementation**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Operating+System+Design+and+Implementation)  
+    - [Web Tutorials](https://www.google.com/search?q=Operating+System+Design+and+Implementation+tutorial)
 
 ---
 
 ### 🗓️ Study Schedule
-- **Day 1**: Topics 1-4  
-- **Day 2**: Topics 5-8  
-- **Day 3**: Topics 9-11  
-- **Day 4**: Topics 12-14  
+- **Day 1**: Topics 1-5  
+- **Day 2**: Topics 6-10  
+- **Day 3**: Topics 11-14  
 
 ---
 
