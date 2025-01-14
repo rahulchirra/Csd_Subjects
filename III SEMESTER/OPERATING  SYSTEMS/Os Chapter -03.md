@@ -1,6 +1,3 @@
-"UNIT III: Memory-Management Strategies and Virtual-Memory Management" 
----
-
 # UNIT III: Memory-Management Strategies and Virtual-Memory Management
 
 ## 📚 Table of Contents
