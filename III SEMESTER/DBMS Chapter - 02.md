@@ -1,85 +1,68 @@
-# 📘 Chapter 02: Database Design and ER Model 🌟  
+# UNIT- II: Database Design and ER Model
 
-Welcome to this comprehensive tutorial on **Database Design and the ER Model**! This guide provides step-by-step resources for mastering the concepts with **YouTube videos, web tutorials**, and a structured learning plan.  
+## 📚 Table of Contents
 
----
+1. 📘 **Basic Concepts**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Basic+concepts+of+Database+Design+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Basic+concepts+of+Database+Design+tutorial)
 
-## 📆 Days-Based Learning Plan  
+2. 🧑‍🤝‍🧑 **Entity Sets and Relationship Sets**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Entity+Sets+and+Relationship+Sets+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Entity+Sets+and+Relationship+Sets+tutorial)
 
-### 🖒️ Day 1: Basic Concepts  
-**Description**: Overview of entity sets, relationship sets, and database basics.  
-🔗 [YouTube Video: Database Basics](https://youtu.be/ztHopE5Wnpc)  
-🔗 [Web Tutorial: DBMS Basics](https://www.javatpoint.com/dbms)  
+3. 🎯 **Constraints**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Constraints+in+Database+Design+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Constraints+in+Database+Design+tutorial)
 
----
+4. 🔑 **Keys**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Keys+in+Database+Design+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Keys+in+Database+Design+tutorial)
 
-### 🖒️ Day 2: Entity Sets and Relationship Sets  
-**Description**: Learn the fundamental structures in databases.  
-🔗 [YouTube Video: Entity and Relationship Sets](https://youtu.be/1IbVjRo4RKw)  
-🔗 [Web Tutorial: Entity and Relationship Sets](https://www.guru99.com/dbms-entity.html)  
+5. 🛠️ **Design Issues**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Design+Issues+in+Database+Design+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Design+Issues+in+Database+Design+tutorial)
 
----
+6. 📊 **Entity-Relationship Diagram**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Entity-Relationship+Diagram+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Entity-Relationship+Diagram+tutorial)
 
-### 🖒️ Day 3: Constraints  
-**Description**: Explore database rules and constraints.  
-🔗 [YouTube Video: Database Constraints](https://youtu.be/rHGz7huPWnA)  
-🔗 [Web Tutorial: Constraints in DBMS](https://www.geeksforgeeks.org/constraints-in-dbms/)  
+7. 🏚️ **Weak Entity Sets**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Weak+Entity+Sets+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Weak+Entity+Sets+tutorial)
 
----
+8. 🌟 **Extended E-R Features**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Extended+E-R+Features+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Extended+E-R+Features+tutorial)
 
-### 🖒️ Day 4: Keys  
-**Description**: Understand primary, foreign, and candidate keys.  
-🔗 [YouTube Video: Database Keys](https://youtu.be/NR3SuRpXJYc)  
-🔗 [Web Tutorial: Keys in DBMS](https://www.javatpoint.com/dbms-keys)  
+9. 🛡️ **Designing an E-R Database Schema**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Designing+an+E-R+Database+Schema+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Designing+an+E-R+Database+Schema+tutorial)
 
----
-
-### 🖒️ Day 5: Design Issues  
-**Description**: Common issues faced in database design.  
-🔗 [YouTube Video: Database Design Issues](https://youtu.be/Fzw6Yo50KzE)  
-🔗 [Web Tutorial: Database Design Issues](https://www.studytonight.com/dbms/database-design)  
-
----
-
-### 🖒️ Day 6: Entity-Relationship Diagram (ERD)  
-**Description**: Visual representation of databases.  
-🔗 [YouTube Video: ERD Basics](https://youtu.be/FL1e30KrS58)  
-🔗 [Web Tutorial: ERD Tutorial](https://www.lucidchart.com/pages/er-diagrams)  
+10. 🔄 **Reduction of an E-R Schema to Tables**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Reduction+of+an+E-R+Schema+to+Tables+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Reduction+of+an+E-R+Schema+to+Tables+tutorial)
 
 ---
 
-### 🖒️ Day 7: Weak Entity Sets  
-**Description**: Learn about entities that depend on others.  
-🔗 [YouTube Video: Weak Entities](https://youtu.be/q_s_yJ2F4TU)  
-🔗 [Web Tutorial: Weak Entity Sets](https://www.geeksforgeeks.org/weak-entity-set/)  
+### 🗓️ Study Schedule
+- **Day 1**: Topics 1-3
+- **Day 2**: Topics 4-6
+- **Day 3**: Topics 7-8
+- **Day 4**: Topics 9-10
 
 ---
 
-### 🖒️ Day 8: Extended E-R Features  
-**Description**: Advanced concepts like specialization and generalization.  
-🔗 [YouTube Video: Extended E-R Model](https://youtu.be/f0L4PjeQHl8)  
-🔗 [Web Tutorial: EER Model](https://www.tutorialspoint.com/dbms/dbms_enhanced_er_model.htm)  
+### 🛠️ Tips for Exam Preparation
+- Practice drawing E-R diagrams for real-world scenarios.
+- Understand the role of constraints and keys in schema design.
+- Watch videos with practical demonstrations for clarity.
+- Participate in discussion forums to exchange knowledge.
 
 ---
 
-### 🖒️ Day 9: Designing an E-R Database Schema  
-**Description**: Learn how to create an ER schema.  
-🔗 [YouTube Video: Designing an ER Schema](https://youtu.be/U3g_a26N9Cs)  
-🔗 [Web Tutorial: ER Schema Design](https://www.javatpoint.com/dbms-design-and-implementation)  
-
----
-
-### 🖒️ Day 10: Reduction of an E-R Schema to Tables  
-**Description**: Transform ER diagrams into tables.  
-🔗 [YouTube Video: E-R Schema to Tables](https://youtu.be/wN3zux7uZeg)  
-🔗 [Web Tutorial: Reduction of ER to Tables](https://www.guru99.com/database-normalization.html)  
-
----
-
-## 🌟 How to Use This Tutorial  
-
-1. Follow the topics in order for a structured learning experience.  
-2. Watch the linked videos 🎥 and read the web tutorials 📖.  
-3. Practice designing ER diagrams and schemas.  
+### 💡 How to Use This Repository
+1. Select a topic from the table of contents.
+2. Access the resources using the provided links.
+3. Follow the study schedule for timely completion.
 
 ---
