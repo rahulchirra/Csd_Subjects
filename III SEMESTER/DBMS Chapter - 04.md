@@ -1,116 +1,100 @@
-# 📘 Chapter 04: Database Design and Normalization 🌟
+# UNIT- IV: Informal Design Guidelines for Relation Schema
 
-Welcome to this comprehensive guide on **Database Design and Normalization**! This tutorial is structured with **web tutorials** and **YouTube search results** to help you master the concepts effectively.
+## 📚 Table of Contents
 
----
+1. 📋 **Informal Design Guidelines for Relation Schema**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Informal+Design+Guidelines+for+Relation+Schema+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Informal+Design+Guidelines+for+Relation+Schema+tutorial)
 
-## 📆 Days-Based Learning Plan
+2. 📚 **Functional Dependencies**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Functional+Dependencies+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Functional+Dependencies+tutorial)
 
-### 🗓️ Day 1: Informal Design Guidelines for Relation Schema
-**Description**: Learn the informal guidelines for designing relation schemas.
-- 📚 [Web Tutorial: Informal Design Guidelines for Relation Schemas](https://www.slideshare.net/slideshow/informal-design-guidelines-for-relation-schemas-pptx/271442504)
-- 🎥 [YouTube Search: Informal Design Guidelines for Relation Schema](https://www.youtube.com/results?search_query=Informal+Design+Guidelines+for+Relation+Schema)
+3. 🔑 **Normal Forms Based on Primary Keys**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Normal+Forms+Based+on+Primary+Keys+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Normal+Forms+Based+on+Primary+Keys+tutorial)
 
----
+4. 🔄 **Decomposition**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Decomposition+in+Database+Design+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Decomposition+in+Database+Design+tutorial)
 
-### 🗓️ Day 2: Functional Dependencies
-**Description**: Understand the concept of functional dependencies in databases.
-- 📚 [Web Tutorial: Functional Dependencies in DBMS](https://www.geeksforgeeks.org/dbms-functional-dependency/)
-- 🎥 [YouTube Search: Functional Dependencies](https://www.youtube.com/results?search_query=Functional+Dependencies)
+5. ⭐ **Desirable Properties of Decomposition**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Desirable+Properties+of+Decomposition+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Desirable+Properties+of+Decomposition+tutorial)
 
----
+6. 1️⃣ **First Normal Form (1NF)**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=First+Normal+Form+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=First+Normal+Form+tutorial)
 
-### 🗓️ Day 3: Normal Forms Based on Primary Keys
-**Description**: Explore normal forms that are based on primary keys.
-- 📚 [Web Tutorial: Normal Forms in DBMS](https://www.geeksforgeeks.org/normal-forms-in-dbms/)
-- 🎥 [YouTube Search: Normal Forms based on Primary Keys](https://www.youtube.com/results?search_query=Normal+Forms+based+on+Primary+Keys)
+7. 2️⃣ **Second Normal Form (2NF)**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Second+Normal+Form+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Second+Normal+Form+tutorial)
 
----
+8. 3️⃣ **Third Normal Form (3NF)**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Third+Normal+Form+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Third+Normal+Form+tutorial)
 
-### 🗓️ Day 4: Decomposition and Desirable Properties
-**Description**: Learn about decomposition in database design and its desirable properties.
-- 📚 [Web Tutorial: Decomposition in DBMS](https://www.javatpoint.com/dbms-decomposition)
-- 🎥 [YouTube Search: Decomposition in DBMS](https://www.youtube.com/results?search_query=Decomposition+in+DBMS)
+9. 🧑‍🏫 **Boyce-Codd Normal Form (BCNF)**  
+   - [YouTube Tutorials](https://www.youtube.com/results?search_query=Boyce-Codd+Normal+Form+tutorial)
+   - [Web Tutorials](https://www.google.com/search?q=Boyce-Codd+Normal+Form+tutorial)
 
----
+10. 🌐 **Multivalued Dependency**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Multivalued+Dependency+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Multivalued+Dependency+tutorial)
 
-### 🗓️ Day 5: First Normal Form (1NF)
-**Description**: Understand the First Normal Form and its significance.
-- 📚 [Web Tutorial: First Normal Form (1NF)](https://www.studytonight.com/dbms/first-normal-form.php)
-- 🎥 [YouTube Search: First Normal Form](https://www.youtube.com/results?search_query=First+Normal+Form)
+11. 4️⃣ **Fourth Normal Form (4NF)**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Fourth+Normal+Form+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Fourth+Normal+Form+tutorial)
 
----
+12. 5️⃣ **Fifth Normal Form (5NF)**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Fifth+Normal+Form+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Fifth+Normal+Form+tutorial)
 
-### 🗓️ Day 6: Second Normal Form (2NF)
-**Description**: Dive into the Second Normal Form and its application.
-- 📚 [Web Tutorial: Second Normal Form (2NF)](https://www.studytonight.com/dbms/second-normal-form.php)
-- 🎥 [YouTube Search: Second Normal Form](https://www.youtube.com/results?search_query=Second+Normal+Form)
+13. 🔄 **Transactions and Transaction Concepts**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Transactions+and+Transaction+Concepts+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Transactions+and+Transaction+Concepts+tutorial)
 
----
+14. ⏳ **Transaction States**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Transaction+States+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Transaction+States+tutorial)
 
-### 🗓️ Day 7: Third Normal Form (3NF)
-**Description**: Learn about the Third Normal Form and how to achieve it.
-- 📚 [Web Tutorial: Third Normal Form (3NF)](https://www.studytonight.com/dbms/third-normal-form.php)
-- 🎥 [YouTube Search: Third Normal Form](https://www.youtube.com/results?search_query=Third+Normal+Form)
+15. 🛠️ **Implementation of Atomicity and Durability**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Implementation+of+Atomicity+and+Durability+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Implementation+of+Atomicity+and+Durability+tutorial)
 
----
+16. ⚡ **Concurrent Executions**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Concurrent+Executions+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Concurrent+Executions+tutorial)
 
-### 🗓️ Day 8: Boyce-Codd Normal Form (BCNF)
-**Description**: Explore the Boyce-Codd Normal Form and its importance.
-- 📚 [Web Tutorial: Boyce-Codd Normal Form (BCNF)](https://www.geeksforgeeks.org/boyce-codd-normal-form-bcnf/)
-- 🎥 [YouTube Search: Boyce-Codd Normal Form](https://www.youtube.com/results?search_query=Boyce-Codd+Normal+Form)
+17. 🕒 **Serializability and Recoverability**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Serializability+and+Recoverability+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Serializability+and+Recoverability+tutorial)
 
----
-
-### 🗓️ Day 9: Multivalued Dependency and Fourth Normal Form (4NF)
-**Description**: Understand multivalued dependencies and the Fourth Normal Form.
-- 📚 [Web Tutorial: Fourth Normal Form (4NF)](https://www.javatpoint.com/dbms-fourth-normal-form)
-- 🎥 [YouTube Search: Fourth Normal Form](https://www.youtube.com/results?search_query=Fourth+Normal+Form)
-
----
-
-### 🗓️ Day 10: Fifth Normal Form (5NF)
-**Description**: Learn about the Fifth Normal Form and its role in database design.
-- 📚 [Web Tutorial: Fifth Normal Form (5NF)](https://www.javatpoint.com/dbms-fifth-normal-form)
-- 🎥 [YouTube Search: Fifth Normal Form](https://www.youtube.com/results?search_query=Fifth+Normal+Form)
-
----
-
-### 🗓️ Day 11: Transactions and Transaction Concepts
-**Description**: Explore the fundamentals of transactions in databases.
-- 📚 [Web Tutorial: Database Transactions](https://www.geeksforgeeks.org/transaction-processing-in-dbms/)
-- 🎥 [YouTube Search: Database Transactions](https://www.youtube.com/results?search_query=Database+Transactions)
+18. 🔒 **Implementation of Isolation**  
+    - [YouTube Tutorials](https://www.youtube.com/results?search_query=Implementation+of+Isolation+tutorial)
+    - [Web Tutorials](https://www.google.com/search?q=Implementation+of+Isolation+tutorial)
 
 ---
 
-### 🗓️ Day 12: Transaction States and Implementation of Atomicity and Durability
-**Description**: Understand transaction states and how atomicity and durability are implemented.
-- 📚 [Web Tutorial: Transaction States in DBMS](https://www.tutorialspoint.com/dbms/dbms_transaction.htm)
-- 🎥 [YouTube Search: Transaction States in DBMS](https://www.youtube.com/results?search_query=Transaction+States+in+DBMS)
+### 🗓️ Study Schedule
+- **Day 1**: Topics 1-5
+- **Day 2**: Topics 6-10
+- **Day 3**: Topics 11-15
+- **Day 4**: Topics 16-18
 
 ---
 
-### 🗓️ Day 13: Concurrent Executions and Serializability
-**Description**: Learn about concurrent executions in databases and the concept of serializability.
-- 📚 [Web Tutorial: Concurrency Control in DBMS](https://www.geeksforgeeks.org/concurrency-control-in-dbms/)
-- 🎥 [YouTube Search: Concurrency Control in DBMS](https://www.youtube.com/results?search_query=Concurrency+Control+in+DBMS)
+### 🛠️ Tips for Exam Preparation
+- Practice decomposition and normalization techniques with examples.
+- Understand the theoretical aspects of dependencies and normal forms.
+- Explore transaction states with practical SQL demonstrations.
+- Attempt case studies to learn about concurrency and isolation.
 
 ---
 
-### 🗓️ Day 14: Recoverability and Implementation of Isolation
-**Description**: Dive into recoverability in databases and how isolation is implemented.
-- 📚 [Web Tutorial: Recoverability in DBMS](https://www.javatpoint.com/dbms-recoverability)
-- 🎥 [YouTube Search: Recoverability in DBMS](https://www.youtube.com/results?search_query=Recoverability+in+DBMS)
+### 💡 How to Use This Repository
+1. Browse through the topics in the table of contents.
+2. Follow the study schedule to complete topics effectively.
+3. Use the links to access quality tutorials and resources.
 
 ---
-
-## 🌟 How to Use This Tutorial
-
-1. Follow the topics in order for a structured learning experience.
-2. Read the linked web tutorials 📚 and watch the YouTube videos 🎥.
-3. Practice designing database schemas and writing SQL queries.
-4. Engage in discussions or forums to clarify doubts and enhance understanding.
-
----
-
-Happy Learning! 🎓
