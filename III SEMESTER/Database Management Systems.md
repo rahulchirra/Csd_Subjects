@@ -4,6 +4,15 @@ This guide provides comprehensive YouTube and web tutorial links for each topic 
 
 ---
 
+## Days of Planning
+### Suggested Plan:
+- **Day 1:** Topics 1-3
+- **Day 2:** Topics 4-6
+- **Day 3:** Topics 7-8
+- **Day 4:** Topics 9-10
+
+---
+
 ## 1. 📊 Database System Applications
 - **YouTube:** [Database System Applications](https://www.youtube.com/results?search_query=Database+system+applications+tutorial)  
 - **Web Tutorial:** [Database Applications Overview](https://www.tutorialspoint.com/dbms/dbms_applications.htm)
