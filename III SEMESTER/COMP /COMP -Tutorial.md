@@ -1,5 +1,3 @@
-Okay, I understand. I'll replace the image descriptions with live web search links for relevant images, while still maintaining the markdown format with emojis and detailed class notes, as you requested.
-
 # Class Notes: Digital Logic, Computer Architecture, & Microprocessors
 
 ## UNIT I: Introduction to Digital Logic Circuits
