@@ -21,5 +21,6 @@ Each folder represents a semester and contains markdown files with study materia
 *   **Contents**: Lists the different folders representing the subjects and semesters.
 *   **How to Use:** Briefly explains how to use the materials (each folder represents a semester and contains markdown files with study materials).
 * **Author**: Author name and github link. [rahulchirra](https://github.com/rahulchirra)
+  [comp](https://github.com/rahulchirra/SEMESTERS/blob/main/III%20SEMESTER/COMP%20/COMP%20.md)
 
 This README will help others understand the structure and purpose of your repository when they visit it on GitHub. Let me know if you want to make changes to it!
