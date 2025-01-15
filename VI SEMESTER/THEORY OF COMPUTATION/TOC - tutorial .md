@@ -1,4 +1,5 @@
 # Automata Theory Tutorial: Comprehensive Notes for Exam Preparation
+Resources Provided By: Rahul Chirra
 
 ## **UNIT-I: Finite Automata**
 
