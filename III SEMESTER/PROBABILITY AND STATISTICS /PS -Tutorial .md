@@ -1,774 +1,373 @@
 # Probability and Statistics Tutorial: Comprehensive Notes for Exam Preparation
 
-## UNIT-I: Basic Probability
+## **UNIT-I: Foundations of Probability**
 
 ### 📚 Table of Contents
 
-1. 🎲 **Probability Spaces**
-2. 🔀 **Conditional Probability**
-3. 🔀 **Independent Events**
-4. ➗ **Bayes’ Theorem**
-5. 📊 **Random Variables**
-6. 🔢 **Discrete Random Variables**
-7. 📈 **Continuous Random Variables**
-8. ➕ **Expectation of Random Variables**
-9. 📉 **Variance of Random Variables**
+*   **🎲 Basic Probability**
+*   **📊 Random Variables**
 
 ---
 
-### 1. 🎲 Probability Spaces
+### **🎲 Basic Probability**
 
-Fundamental concepts in probability theory.
+Fundamental concepts of probability theory.
 
--   **Sample Space:** Set of all possible outcomes of a random experiment.
--   **Events:** Subsets of the sample space.
--   **Probability Measure:** Function assigning probabilities to events.
--   **Axioms of Probability**: Rules that probability must follow.
+*   **Probability Spaces:** A sample space, the set of all possible outcomes, events as subsets of the sample space, and the concept of a probability measure that assigns probabilities to events, usually using axioms of probability.
+*   **Conditional Probability:** The probability of an event occurring given that another event has already occurred, using the formula P(A|B) = P(A and B) / P(B)
+*   **Independent Events:** Two events where the occurrence of one does not affect the probability of the other, represented by the formula P(A and B) = P(A) * P(B)
+*   **Bayes’ Theorem:** A fundamental theorem that describes how to update the probabilities of a hypothesis given evidence, using the formula P(A|B) = [P(B|A) * P(A)] / P(B)
 
-**Example Problem:**
-What is the probability of getting an even number when a six-sided die is rolled?
-*Solution:* The sample space is {1, 2, 3, 4, 5, 6}. The event of getting an even number is {2, 4, 6}. Probability = 3/6 = 1/2
+**Example Concept:**
+What is the difference between independent events and mutually exclusive events?
+*Solution:* Independent events are those where the occurrence of one does not affect the occurrence of the other. Mutually exclusive events cannot happen simultaneously. If two events are mutually exclusive, they cannot be independent. If two events are independent, they are not necessarily mutually exclusive.
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Probability+Spaces+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Probability+Spaces+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Basic+Probability+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Basic+Probability+tutorial)
+*   **Probability Spaces**
+    * [YouTube Tutorials](https://www.youtube.com/results?search_query=Probability+Spaces+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Probability+Spaces+tutorial)
+*   **Conditional Probability**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Conditional+Probability+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Conditional+Probability+tutorial)
+*   **Independent Events**
+    * [YouTube Tutorials](https://www.youtube.com/results?search_query=Independent+Events+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Independent+Events+tutorial)
+*   **Bayes’ Theorem**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=Bayes+Theorem+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Bayes+Theorem+tutorial)
 
 ---
 
-### 2. 🔀 Conditional Probability
+### **📊 Random Variables**
 
-Probability of an event given that another event has occurred.
+Understanding random variables and their properties.
 
--   **Definition:** P(A|B) = P(A ∩ B) / P(B)
--   **Use Cases:** Calculating probability with partial information.
--   **Multiplication rule**: P(A and B) = P(A) P(B/A)
+*   **Discrete Random Variables:** Variables that can only take on a finite number of values or a countably infinite number of values, each of which can be described by a probability mass function.
+*   **Continuous Random Variables:** Variables that can take on any value within a given range, described by a probability density function.
+*   **Expectation of Random Variables:** The mean or average value of a random variable, calculated as a weighted average of possible values and their probabilities (discrete) or an integral (continuous).
+*   **Variance of Random Variables:** A measure of how spread out the values of a random variable are around its mean, calculated as the expected value of the squared deviation from the mean.
 
-**Example Problem:**
-A bag contains 4 red balls and 6 blue balls. Two balls are drawn without replacement. What is the probability that the second ball is blue, given the first ball is red?
-*Solution:* P(2nd blue | 1st red) = P(1st red and 2nd blue) / P(1st red) = (4/10 * 6/9) / (4/10) = 6/9 = 2/3
+**Example Concept:**
+What is the difference between a discrete and a continuous random variable?
+*Solution:* A discrete random variable has countable values (like number of heads in a coin toss, where values can be 0,1,2, etc). A continuous random variable can take any value within a range (like height, weight, temperature).
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Conditional+Probability+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Conditional+Probability+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Random+Variables+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Random+Variables+tutorial)
+*   **Discrete Random Variables**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Discrete+Random+Variables+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Discrete+Random+Variables+tutorial)
+*   **Continuous Random Variables**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=Continuous+Random+Variables+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Continuous+Random+Variables+tutorial)
+*  **Expectation of Random Variables**
+    * [YouTube Tutorials](https://www.youtube.com/results?search_query=Expectation+of+Random+Variables+tutorial)
+    * [Web Tutorials](https://www.google.com/search?q=Expectation+of+Random+Variables+tutorial)
+*  **Variance of Random Variables**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=Variance+of+Random+Variables+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Variance+of+Random+Variables+tutorial)
 
 ---
 
-### 3. 🔀 Independent Events
-
-Events that do not affect each other's occurrence.
-
--   **Definition:** P(A ∩ B) = P(A) * P(B)
--   **Examples:** Tossing a coin multiple times.
--   **Pairwise Independence**: Any two events are independent.
-- **Mutual Independence**: All events are mutually independent.
-
-**Example Problem:**
-A coin is tossed twice. Let A be the event that the first toss is heads, and B be the event that the second toss is tails. Are A and B independent?
-*Solution:* P(A) = 1/2, P(B) = 1/2, P(A and B) = 1/4. Since P(A) * P(B) = P(A and B), events A and B are independent.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Independent+Events+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Independent+Events+tutorial)
-
----
-
-### 4. ➗ Bayes’ Theorem
-
-A formula for updating probabilities based on new evidence.
-
--   **Formula:** P(A|B) = [P(B|A) * P(A)] / P(B)
--   **Applications:** Medical diagnosis, spam filtering.
-- **Prior and Posterior probabilities**: Updating the prior probability based on new evidence.
-
-**Example Problem:**
-A test for a disease has a 90% accuracy. If 1% of the population has the disease, and a person tests positive, what's the probability that they actually have the disease?
-*Solution:* Let D be the event of having the disease, and + the event of testing positive.
-P(D) = 0.01, P(+|D) = 0.90, P(+|~D) = 0.10, P(D/+) = (0.9 * 0.01) / (0.9 * 0.01 + 0.1 * 0.99) = 0.083, or about 8.3%
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Bayes+Theorem+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Bayes+Theorem+tutorial)
-
----
-
-### 5. 📊 Random Variables
-
-Variables that represent numerical outcomes of random events.
-
--   **Definition:** Mapping from sample space to real numbers.
--   **Types:** Discrete and continuous random variables.
-
-**Example Problem:**
-Let X be the number of heads when a coin is tossed twice. What are the possible values of the random variable X?
-*Solution:* Sample space is {HH, HT, TH, TT}. X can take values 0, 1, or 2.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Random+Variables+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Random+Variables+tutorial)
-
----
-
-### 6. 🔢 Discrete Random Variables
-
-Random variables that can take a countable number of values.
-
--   **Probability Mass Function (PMF):** Assigns probabilities to each value.
--   **Examples:** Number of heads in coin tosses, number of defects in a batch.
-
-**Example Problem:**
-A die is rolled. X is a random variable showing the outcome of a roll. What are the possible values of X and their probabilities?
-*Solution:* X can be 1, 2, 3, 4, 5, 6 and each has probability 1/6.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Discrete+Random+Variables+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Discrete+Random+Variables+tutorial)
-
----
-
-### 7. 📈 Continuous Random Variables
-
-Random variables that can take any value within a given range.
-
--   **Probability Density Function (PDF):** Represents probability over a range of values.
--   **Examples:** Height, weight, temperature.
-
-**Example Problem:**
-The height of students in a class is measured, which can vary within a range like 1.5 meters to 2.0 meters. Height (X) is a continuous random variable. The Probability Distribution is given by the PDF f(x).
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Continuous+Random+Variables+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Continuous+Random+Variables+tutorial)
-
----
-
-### 8. ➕ Expectation of Random Variables
-
-The average value of a random variable over many trials.
-
--   **Definition:** E(X) = Σx * P(x) for discrete, ∫x * f(x) dx for continuous.
--   **Properties:** Linearity, variance, covariance.
--  **Expected Value**: Mean of a random variable.
-
-**Example Problem:**
-What is the expected value of a single roll of a fair six sided die?
-*Solution:* E(X) = (1 * 1/6) + (2 * 1/6) + (3 * 1/6) + (4 * 1/6) + (5 * 1/6) + (6 * 1/6) = 3.5.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Expectation+of+Random+Variables+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Expectation+of+Random+Variables+tutorial)
-
----
-
-### 9. 📉 Variance of Random Variables
-
-A measure of the spread or dispersion of a random variable.
-
--   **Definition:** Var(X) = E[(X - E(X))^2]
--   **Standard Deviation:** Square root of the variance.
--   **Measures the spread**: Around the mean.
-
-**Example Problem:**
-What is the variance of a single roll of a fair six sided die?
-*Solution:*  E(X^2) = (1^2 * 1/6) + (2^2 * 1/6) + (3^2 * 1/6) + (4^2 * 1/6) + (5^2 * 1/6) + (6^2 * 1/6) = 15.17
-Var(X) = E(X^2) - (E(X))^2 = 15.17 - (3.5)^2 = 2.92.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Variance+of+Random+Variables+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Variance+of+Random+Variables+tutorial)
-
----
-
-## UNIT-II: Discrete Probability Distributions
+## **UNIT-II: Discrete Probability Distributions**
 
 ### 📚 Table of Contents
 
-1.  🔢 **Binomial Distribution**
-2.  🔢 **Poisson Distribution**
-3.  📊 **Evaluation of Statistical Parameters (Binomial)**
-4.  📊 **Evaluation of Statistical Parameters (Poisson)**
-5.  🔄 **Poisson Approximation to the Binomial Distribution**
+*   **📊 Binomial Distribution**
+*   **🔢 Poisson Distribution**
 
 ---
 
-### 1. 🔢 Binomial Distribution
+### **📊 Binomial Distribution**
 
-Probability distribution for the number of successes in a fixed number of trials.
+Understanding the binomial distribution.
 
--   **Bernoulli Trials:** Trials with only two outcomes (success/failure).
--   **Parameters:** n (number of trials), p (probability of success).
--   **Probability Mass Function (PMF):** Defines probability for each number of success.
--   **Mean and Variance:** Mean = np, and variance = np(1-p).
+*   **Binomial Distribution:** The probability distribution of the number of successes in a fixed number of independent trials, each with the same probability of success, with a probability mass function, and probability and parameters calculated based on number of trials and probability of success.
+*   **Evaluation of Statistical Parameters:**
+    *   **Mean (Expectation):**  Calculated as n * p, where n is the number of trials and p is the probability of success.
+    *   **Variance:** Calculated as n * p * (1-p), where n is the number of trials and p is the probability of success.
 
-**Example Problem:**
-A coin is tossed 5 times. What is the probability of getting exactly 3 heads?
-*Solution:* Here n = 5, p = 0.5. P(X=3) = (5C3) * (0.5)^3 * (0.5)^2  = 0.3125
+**Example Concept:**
+In a binomial distribution, if a coin is tossed 5 times with the probability of heads as 0.5, calculate mean and variance.
+*Solution:*
+*   Mean = n*p = 5 * 0.5 = 2.5
+*   Variance = n * p * (1-p) = 5 * 0.5 * 0.5 = 1.25
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Binomial+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Binomial+Distribution+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Binomial+Distribution+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Binomial+Distribution+tutorial)
+*   **Binomial Distribution**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Binomial+Distribution+definition+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Binomial+Distribution+definition+tutorial)
+*   **Evaluation of Statistical Parameters**
+     * [YouTube Tutorials](https://www.youtube.com/results?search_query=Binomial+Distribution+Mean+Variance+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Binomial+Distribution+Mean+Variance+tutorial)
 
 ---
 
-### 2. 🔢 Poisson Distribution
+### **🔢 Poisson Distribution**
 
-Probability distribution for the number of events occurring in a fixed interval.
+Understanding the Poisson distribution.
 
--   **Rare Events:** Used when events are rare or random.
--   **Parameter:** λ (average rate of occurrence).
--   **Probability Mass Function (PMF):** Defines probabilities of seeing different counts of events.
--   **Mean and Variance:** Mean = λ, and variance = λ
+*   **Poisson Distribution:** The probability distribution of the number of events occurring in a fixed interval of time or space, given a constant average rate of occurrence with probability mass function defined by rate parameter lambda, and calculates probability of specific number of events.
+*   **Evaluation of Statistical Parameters:**
+    *   **Mean (Expectation):**  Equal to the rate parameter lambda.
+    *   **Variance:** Also equal to the rate parameter lambda.
+*   **Poisson Approximation to the Binomial Distribution:** How the Poisson distribution can be used to approximate the binomial distribution when the number of trials is large and the probability of success is small, by setting lambda = np.
 
-**Example Problem:**
-A call center receives 10 calls per hour. What is the probability that the call center receives exactly 12 calls in an hour?
-*Solution:* Here, λ = 10. P(X=12) =  (e^-10 * 10^12) / 12! = 0.0948
+**Example Concept:**
+If a Poisson distribution has a mean of 3, what is its variance?
+*Solution:*
+In Poisson distribution, mean and variance are equal, so variance is 3.
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Poisson+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Poisson+Distribution+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Poisson+Distribution+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Poisson+Distribution+tutorial)
+*   **Poisson Distribution**
+     * [YouTube Tutorials](https://www.youtube.com/results?search_query=Poisson+Distribution+Definition+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Poisson+Distribution+Definition+tutorial)
+*   **Evaluation of Statistical Parameters**
+     *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Poisson+Distribution+Mean+Variance+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Poisson+Distribution+Mean+Variance+tutorial)
+*   **Poisson Approximation to the Binomial Distribution**
+     *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Poisson+Approximation+to+Binomial+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Poisson+Approximation+to+Binomial+tutorial)
 
 ---
 
-### 3. 📊 Evaluation of Statistical Parameters (Binomial)
-
-Calculating mean and variance of binomial distributions.
-
--   **Mean (Expected Value):** E(X) = n * p
--   **Variance:** Var(X) = n * p * (1 - p)
--   **Standard deviation**: square root of variance
-
-**Example Problem:**
-For a binomial distribution with n=20 and p = 0.6 , what are the mean and standard deviation?
-*Solution:* E(X) = n*p = 20 * 0.6 = 12. Var(X) = n * p * (1 - p) = 20 * 0.6 * 0.4 = 4.8.  Standard Deviation =  √4.8 = 2.19
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Statistical+Parameters+of+Binomial+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Statistical+Parameters+of+Binomial+Distribution+tutorial)
-
----
-
-### 4. 📊 Evaluation of Statistical Parameters (Poisson)
-
-Calculating mean and variance of poisson distribution.
-
--   **Mean (Expected Value):** E(X) = λ
--   **Variance:** Var(X) = λ
--   **Standard deviation**: square root of variance
-
-**Example Problem:**
-For a Poisson distribution with λ = 7 what are the mean and standard deviation?
-*Solution:* E(X) = λ = 7. Var(X) = λ = 7. Standard Deviation = √7 = 2.64.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Statistical+Parameters+of+Poisson+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Statistical+Parameters+of+Poisson+Distribution+tutorial)
-
----
-
-### 5. 🔄 Poisson Approximation to the Binomial Distribution
-
-Using the Poisson distribution to approximate the Binomial distribution under certain conditions.
-
--   **Approximation Conditions:** n is large, p is small, and n * p is constant.
--   **Use Cases:** Simplifying probability calculations.
--   **Accuracy of Approximation**: How accurate the approximation is when np< 7.
-
-**Example Problem:**
-A factory produces items with 0.01 defect rate. If 1000 items are produced, estimate the probability of seeing less than 3 defects.
-*Solution:* Here n=1000, p= 0.01, then λ = n*p = 10. we can use Poisson distribution, P(X < 3) = P(X=0) + P(X=1) + P(X=2).
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Poisson+Approximation+to+Binomial+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Poisson+Approximation+to+Binomial+tutorial)
-
----
-
-## UNIT-III: Continuous Random Variables and Distributions
+## **UNIT-III: Continuous Random Variables and Distributions**
 
 ### 📚 Table of Contents
 
-1.  📈 **Continuous Random Variables and their Properties**
-2.  📊 **Distribution Functions and Densities**
-3.  📏 **Uniform Distribution**
-4.  📉 **Exponential Distribution**
-5.  📈 **Normal Distribution**
-6.  📊 **Evaluation of Statistical Parameters (Uniform)**
-7.  📊 **Evaluation of Statistical Parameters (Exponential)**
-8.  📊 **Evaluation of Statistical Parameters (Normal)**
+*   **📈 Continuous Random Variables and Properties**
+*   **📊 Uniform, Exponential, and Normal Distributions**
 
 ---
 
-### 1. 📈 Continuous Random Variables and their Properties
+### **📈 Continuous Random Variables and Properties**
 
-Properties of continuous random variables.
+Understanding continuous random variables and their properties.
 
--   **Probability Density Function (PDF):** A function that represents a probability distribution.
--   **Non-negativity:** The PDF must be greater than or equal to zero.
--   **Total Area Under PDF**: Must be equal to 1.
--   **Cumulative Distribution Function (CDF):** The probability that random variable takes on a value less than or equal to x.
+*   **Continuous Random Variables and their Properties:**  Understanding that continuous random variables can take any value within a given range, described by probability density function.
+*   **Distribution Functions and Densities:**
+    *   **Distribution Function (CDF):** The probability that the random variable takes a value less than or equal to a certain value.
+    *   **Probability Density Function (PDF):** Describes the relative likelihood of a random variable taking on a given value and is the derivative of the CDF.
 
-**Example Problem:**
-A PDF is given by f(x) = cx, 0<=x<=2 and 0 otherwise, Find the value of c.
-*Solution:* To be a valid pdf the area under pdf must be equal to 1. ∫0 to 2 cx dx = c[x^2/2] from 0 to 2 = c[4/2 - 0] = 2c. 2c= 1, Therefore c = 1/2.
+**Example Concept:**
+What is the relation between CDF and PDF for a continuous random variable?
+*Solution:* The Probability Density Function (PDF) is the derivative of the Cumulative Distribution Function (CDF). The CDF gives the probability that the variable is less than or equal to a value, and the PDF gives the likelihood of the variable being at a particular value.
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Continuous+Random+Variables+Properties+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Continuous+Random+Variables+Properties+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Continuous+Random+Variables+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Continuous+Random+Variables+tutorial)
+*   **Continuous Random Variables and their Properties**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=Continuous+Random+Variables+Properties+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Continuous+Random+Variables+Properties+tutorial)
+*  **Distribution Functions and Densities**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=CDF+and+PDF+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=CDF+and+PDF+tutorial)
 
 ---
 
-### 2. 📊 Distribution Functions and Densities
+### **📊 Uniform, Exponential, and Normal Distributions**
 
-Concepts related to probability distribution.
+Understanding common continuous distributions.
 
--   **Cumulative Distribution Function (CDF):** F(x) = P(X ≤ x).
--   **Probability Density Function (PDF):** f(x) = dF(x)/dx.
--   **Relationships:** CDF is the integral of PDF, PDF is derivative of CDF.
+*   **Uniform Distribution:** A distribution where all values in a given range have equal probability.
+    *   **Mean (Expectation):** Calculated as (a+b)/2, where a and b are the range limits.
+    *   **Variance:** Calculated as (b-a)^2 / 12, where a and b are the range limits.
+*   **Exponential Distribution:** A distribution describing the time between events in a Poisson process and has only one parameter lambda, and is useful for describing the lifetime of components and time between events.
+    *   **Mean (Expectation):** Calculated as 1 / lambda, where lambda is the rate parameter.
+    *   **Variance:** Calculated as 1 / lambda^2, where lambda is the rate parameter.
+*   **Normal Distribution:**  A bell-shaped distribution described by two parameters: mean (mu) and variance (sigma squared). The distribution is symmetric around the mean, and many natural phenomena tend to be approximated by a normal distribution.
+    *   **Mean (Expectation):**  Equal to the parameter mu.
+    *   **Variance:** Equal to the parameter sigma^2.
 
-**Example Problem:**
-A PDF is given by f(x) = x/8, for 0<x<4 and zero otherwise. Find the CDF of X.
-*Solution:* CDF F(x) =  ∫0 to x t/8 dt = t^2/16 from 0 to x = x^2/16, for 0<x<4.
+**Example Concept:**
+What is the shape of a normal distribution?
+*Solution:* The normal distribution is bell-shaped and symmetrical, with most of the data centered around the mean. The curve tails off on both sides and is described by two parameters: mean and variance.
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Distribution+Functions+and+Densities+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Distribution+Functions+and+Densities+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Continuous+Probability+Distributions+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Continuous+Probability+Distributions+tutorial)
+*   **Uniform Distribution**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Uniform+Distribution+tutorial)
+    * [Web Tutorials](https://www.google.com/search?q=Uniform+Distribution+tutorial)
+*   **Exponential Distribution**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Exponential+Distribution+tutorial)
+    * [Web Tutorials](https://www.google.com/search?q=Exponential+Distribution+tutorial)
+*   **Normal Distribution**
+    * [YouTube Tutorials](https://www.youtube.com/results?search_query=Normal+Distribution+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Normal+Distribution+tutorial)
 
 ---
 
-### 3. 📏 Uniform Distribution
-
-A continuous distribution where all values within a range are equally likely.
-
--   **Parameters:** a (minimum), b (maximum).
--   **Probability Density Function (PDF):** Constant over [a, b].
--   **Applications**: Random number generation.
-
-**Example Problem:**
-What is the probability that a random number between 0 and 10 will be between 2 and 5?
-*Solution:* In uniform distribution PDF= 1/(b-a). Hence here PDF = 1/10 for 0 < x < 10
-P(2 < x < 5) = ∫2 to 5 (1/10)dx = (5-2) / 10 = 3/10
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Uniform+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Uniform+Distribution+tutorial)
-
----
-
-### 4. 📉 Exponential Distribution
-
-A continuous distribution for the time between events in a Poisson process.
-
--   **Parameter:** λ (rate).
--   **Memoryless Property:** Future time is independent of past time.
--   **Applications**: Reliability, queues, waiting times.
-
-**Example Problem:**
-The time between two customer arrivals in a shop follows an exponential distribution with mean of 2 minutes, What is the probability that time between two arrivals is greater than 3 minutes?
-*Solution:* Here, λ = 1/2. P(X>3) = e ^(-λt) = e^(-(1/2 *3)) = e^(-3/2) = 0.223
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Exponential+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Exponential+Distribution+tutorial)
-
----
-
-### 5. 📈 Normal Distribution
-
-A bell-shaped, symmetric distribution widely used in statistics.
-
--   **Parameters:** μ (mean), σ (standard deviation).
--   **Probability Density Function (PDF):** Bell-shaped curve.
--   **Standard normal distribution**: Normal distribution with mean = 0 and standard deviation = 1.
--  **Applications**: Widely used in science, engineering, finance, and many other fields.
-
-**Example Problem:**
-Weights of babies are normally distributed with mean of 3kg and standard deviation of 0.5kg. What is the probability that baby weighs more than 4kg?
-*Solution:* We need to calculate the z score, z = (4-3)/0.5 = 2. P(Z>2) = 0.0228 from z-table.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Normal+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Normal+Distribution+tutorial)
-
----
-
-### 6. 📊 Evaluation of Statistical Parameters (Uniform)
-
-Calculating mean and variance of uniform distribution.
-
--   **Mean (Expected Value):** E(X) = (a + b) / 2
--   **Variance:** Var(X) = (b - a)^2 / 12
--   **Standard deviation**: square root of variance
-
-**Example Problem:**
-For a uniform distribution between 2 and 10, find the mean and variance.
-*Solution:* E(X) = (2+10)/2 = 6, Var(X) = (10-2)^2/12 = 64/12=5.33
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Statistical+Parameters+of+Uniform+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Statistical+Parameters+of+Uniform+Distribution+tutorial)
-
----
-
-### 7. 📊 Evaluation of Statistical Parameters (Exponential)
-
-Calculating mean and variance of exponential distributions.
-
--   **Mean (Expected Value):** E(X) = 1/λ
--   **Variance:** Var(X) = 1/λ^2
--   **Standard deviation**: square root of variance
-
-**Example Problem:**
-For an exponential distribution with λ = 0.2, find the mean and variance.
-*Solution:* E(X) = 1/0.2 = 5, Var(X) = 1/(0.2)^2=25,
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Statistical+Parameters+of+Exponential+Distribution+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Statistical+Parameters+of+Exponential+Distribution+tutorial)
-
----
-
-### 8. 📊 Evaluation of Statistical Parameters (Normal)
-
-Calculating mean and variance of normal distributions.
-
--   **Mean (Expected Value):** E(X) = μ
--   **Variance:** Var(X) = σ^2
--   **Standard Deviation**: σ
-
-**Example Problem:**
-For a normal distribution with μ = 10 and σ = 2 what are the mean and standard deviation?
-*Solution:* E(X) = μ = 10,  Standard deviation = σ = 2, and Variance= σ^2 = 4.
-
-🔗 **Learn More:**
--  [YouTube Tutorials](https://www.youtube.com/results?search_query=Statistical+Parameters+of+Normal+Distribution+tutorial)
--  [Web Tutorials](https://www.google.com/search?q=Statistical+Parameters+of+Normal+Distribution+tutorial)
-
----
-
-## UNIT-IV: Applied Statistics
+## **UNIT-IV: Applied Statistics**
 
 ### 📚 Table of Contents
 
-1.  📐 **Curve Fitting by the Method of Least Squares**
-2.  ➖ **Fitting of Straight Lines**
-3.  〰️ **Fitting of Second Degree Parabolas**
-4.  📈 **Fitting of More General Curves**
-5.  🤝 **Correlation**
-6.  📈 **Regression**
-7.  📊 **Rank Correlation**
+*   **📉 Curve Fitting**
+*   **📈 Correlation and Regression**
 
 ---
 
-### 1. 📐 Curve Fitting by the Method of Least Squares
+### **📉 Curve Fitting**
 
-Finding a curve that best fits given data points.
+Fitting curves to data using the method of least squares.
 
--   **Least Squares:** Minimizing the sum of squared errors.
--   **Best Fit Curve:** Finding a curve with the minimum error.
--  **Applications**: used to understand trend in data
+*   **Curve Fitting by the Method of Least Squares:** Finding the best fit curve that minimizes the sum of the squares of the errors between the observed values and predicted values.
+*   **Fitting of Straight Lines:** Finding the equation of a line (y = mx + c) that best fits the data points by using least square method to solve for slope and y intercept.
+*   **Fitting of Second Degree Parabolas:** Finding the equation of a parabola (y = ax^2 + bx + c) that best fits the data points, by using least square method to solve for the coefficients a,b, and c.
+*   **More General Curves:** Fitting curves beyond straight lines and parabolas, using polynomial functions, or exponential functions using the principle of least squares, by solving for parameters of the function using matrices and linear algebra.
 
-**Example Problem:**
-Given a set of data points, describe how you would find a best fit curve using the least squares method?
-*Solution:* Use the least squares method to find the parameters of a curve such as polynomial, by minimizing the sum of squares of the errors between the actual data points and the value given by the curve.
+**Example Concept:**
+What is the goal of curve fitting using the method of least squares?
+*Solution:* The goal is to find a curve that best fits the given data points by minimizing the sum of the squares of the vertical distances between the data points and the curve, resulting in a curve that is closest to the given points.
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Curve+Fitting+Least+Squares+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Curve+Fitting+Least+Squares+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Curve+Fitting+Least+Squares+Method+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Curve+Fitting+Least+Squares+Method+tutorial)
+*  **Curve Fitting by the Method of Least Squares**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Least+Squares+Method+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Least+Squares+Method+tutorial)
+*   **Fitting of Straight Lines**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Fitting+Straight+Line+using+Least+Squares+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Fitting+Straight+Line+using+Least+Squares+tutorial)
+*   **Fitting of Second Degree Parabolas**
+    * [YouTube Tutorials](https://www.youtube.com/results?search_query=Fitting+Second+Degree+Parabola+using+Least+Squares+tutorial)
+    * [Web Tutorials](https://www.google.com/search?q=Fitting+Second+Degree+Parabola+using+Least+Squares+tutorial)
+*  **More General Curves**
+    * [YouTube Tutorials](https://www.youtube.com/results?search_query=Curve+Fitting+General+Curves+tutorial)
+    * [Web Tutorials](https://www.google.com/search?q=Curve+Fitting+General+Curves+tutorial)
 
 ---
 
-### 2. ➖ Fitting of Straight Lines
+### **📈 Correlation and Regression**
 
-Fitting a straight line to data points using least squares.
+Understanding relationships between variables.
 
--   **Equation of a Line:** y = mx + c.
--   **Normal Equations:** Equations used to calculate parameters m and c.
+*   **Correlation:** A measure of the strength and direction of a linear relationship between two variables, with values ranging between -1 and 1, with 1 or -1 indicating strong positive or negative correlation respectively, and 0 indicates no linear correlation.
+*   **Regression:** Finding an equation to describe the relationship between a dependent variable and one or more independent variables, and used for predicting the dependent variable based on values of independent variables.
+*   **Rank Correlation:** Correlation calculated using ranks instead of actual values, suitable for non-linear data, by ranking the values based on their values and using Spearman rank correlation or Kendall tau rank correlation.
 
-**Example Problem:**
-Given data points (1, 2), (2, 3), (3, 5), find the least squares line that fits the data points.
-*Solution:*  Use normal equations to find the values of m and c.
+**Example Concept:**
+What does a correlation coefficient of 0.8 indicate?
+*Solution:* A correlation coefficient of 0.8 indicates a strong positive linear relationship between two variables. As one variable increases, the other variable tends to increase too.
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Fitting+Straight+Lines+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Fitting+Straight+Lines+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Correlation+and+Regression+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Correlation+and+Regression+tutorial)
+*   **Correlation**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=Correlation+tutorial)
+    * [Web Tutorials](https://www.google.com/search?q=Correlation+tutorial)
+*  **Regression**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Regression+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Regression+tutorial)
+*   **Rank Correlation**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=Rank+Correlation+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Rank+Correlation+tutorial)
 
 ---
 
-### 3. 〰️ Fitting of Second Degree Parabolas
-
-Fitting a parabola to data points using least squares.
-
--   **Equation of a Parabola:** y = ax^2 + bx + c.
--   **Normal Equations:** Three equations to find parameters a,b,c.
--   **Use Cases:** Curve fitting for non-linear trends.
-
-**Example Problem:**
-Given data points, show how you would find the best fit parabola by using normal equations to find parameters a,b,c?
-*Solution:* Use the normal equations for parabola and substitute x,y values and solve the three equations simultaneously.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Fitting+Second+Degree+Parabolas+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Fitting+Second+Degree+Parabolas+tutorial)
-
----
-
-### 4. 📈 Fitting of More General Curves
-
-Fitting more general types of curves to data.
-
--   **Exponential Curves**: y = ab^x
--   **Power Curves**: y = ax^b
--   **Polynomial Fitting**: Fitting higher degree polynomial equations using least squares.
--   **Transformations**:  Used to convert non linear curves into linear curves.
-
-**Example Problem:**
-If the data shows an exponential trend. What should be done to fit the exponential curve using the least squares method?
-*Solution:* Use log transformations to convert the exponential curve into linear and use least squares.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Fitting+General+Curves+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Fitting+General+Curves+tutorial)
-
----
-
-### 5. 🤝 Correlation
-
-Measuring the strength and direction of a linear relationship.
-
--   **Correlation Coefficient (r):** Ranges from -1 to +1.
--   **Positive Correlation:** When one variable increases, so does the other.
--   **Negative Correlation:** When one variable increases, the other decreases.
--   **No Correlation:** No relationship between the variables.
-
-**Example Problem:**
-A correlation between ice cream sales and temperature is found to be 0.8, How will you interpret this value?
-*Solution:* The value of correlation indicates a strong positive correlation between the two variables. As the temperature increases the sales of ice cream also tends to increase.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Correlation+Statistics+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Correlation+Statistics+tutorial)
-
----
-
-### 6. 📈 Regression
-
-Modeling the relationship between a dependent variable and one or more independent variables.
-
--   **Regression Line:** Used for prediction.
--   **Linear Regression:** Relationship is linear.
--   **Regression Equations:** Equations used to fit a regression line.
--   **Predicting Values**: How well the regression equation predicts the dependent variable.
-
-**Example Problem:**
-Using regression analysis, a relationship between years of experience (X) and salary (Y) is modeled. If the regression equation is Y = 50000 + 2500*X. What does it mean?
-*Solution:* For every year of experience the salary increases by $2500, the basic salary without any experience is $50000
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Regression+Statistics+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Regression+Statistics+tutorial)
-
----
-
-### 7. 📊 Rank Correlation
-
-Measuring the association between variables when data is in rank form.
-
--   **Spearman's Rank Correlation Coefficient:** Measures correlation between ranks.
--   **Use Cases:** Ordinal data, non-linear relationships.
--   **Calculating the Rank correlation Coefficient**: Uses differences in ranks for the calculation.
-
-**Example Problem:**
-Given the ranks of students in math and science, what is the rank correlation between those two subjects?
-*Solution:*  Calculate the differences in the ranks, apply the spearman's correlation equation by using the sum of the squared differences.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Rank+Correlation+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Rank+Correlation+tutorial)
-
----
-
-## UNIT-V: Testing of Hypothesis
+## **UNIT-V: Testing of Hypothesis**
 
 ### 📚 Table of Contents
 
-1.  ❓ **Test of Significance Introduction**
-2.  🧪 **Large Sample Test for Single Proportion**
-3.  🧪 **Large Sample Test for Difference of Proportions**
-4.  🧪 **Large Sample Test for Single Mean**
-5.  🧪 **Large Sample Test for Difference of Means**
-6.  🧪 **Test for Single Mean (Small Samples)**
-7.  🧪 **Test for Difference of Means (Small Samples)**
-8.  🧪 **Test for Ratio of Variances (Small Samples)**
+*   **🔬 Test of Significance - Large Samples**
+*   **🧪 Test of Significance - Small Samples**
 
 ---
 
-### 1. ❓ Test of Significance Introduction
+### **🔬 Test of Significance - Large Samples**
 
-Introduction to hypothesis testing,
+Hypothesis testing for large samples.
 
--   **Hypothesis:** A statement about a population parameter.
--   **Null Hypothesis (H0):** Hypothesis to be tested.
--   **Alternative Hypothesis (H1):** Contradictory statement of the null hypothesis.
--   **Significance Level (α):** Probability of rejecting the null hypothesis when it is true.
--   **Test Statistics:** Calculated based on the sample data.
--   **Decision Rule:** Comparing the test statistic with critical value, from tables.
+*   **Test of Significance:**  A method to determine whether there is enough statistical evidence to reject a null hypothesis and accept the alternative hypothesis, and is used for statistical inference.
+*   **Large Sample Test for Single Proportion:** A statistical test used to test a hypothesis about a single population proportion using Z test.
+*   **Large Sample Test for Difference of Proportions:**  A statistical test used to test a hypothesis about the difference between two population proportions, also using Z test.
+*   **Large Sample Test for Single Mean:** A statistical test used to test a hypothesis about a single population mean, by using a Z test based on the sample mean.
+*   **Large Sample Test for Difference of Means:** A statistical test used to test a hypothesis about the difference between two population means, by using a Z test based on the sample means.
 
-**Example Problem:**
-A company claims that 70% of customers like its new product, what type of test should be used to determine if the claim is true or not?
-*Solution:* A test of significance will be used to verify whether the claim made by the company can be verified or rejected by the sample data.
+**Example Concept:**
+What is a null hypothesis in hypothesis testing?
+*Solution:* A null hypothesis (H0) is a statement about the population that we want to test, usually stating there is no difference or effect. The goal of hypothesis testing is to see if there is enough evidence to reject this null hypothesis in favor of an alternative hypothesis.
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Test+of+Significance+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Test+of+Significance+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Hypothesis+Testing+Large+Samples+tutorial)
+*  [Web Tutorials](https://www.google.com/search?q=Hypothesis+Testing+Large+Samples+tutorial)
+*   **Test of Significance**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=Test+of+Significance+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Test+of+Significance+tutorial)
+*  **Large Sample Test for Single Proportion**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Large+Sample+Test+Single+Proportion+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Large+Sample+Test+Single+Proportion+tutorial)
+*   **Large Sample Test for Difference of Proportions**
+    * [YouTube Tutorials](https://www.youtube.com/results?search_query=Large+Sample+Test+Difference+of+Proportions+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Large+Sample+Test+Difference+of+Proportions+tutorial)
+*   **Large Sample Test for Single Mean**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Large+Sample+Test+Single+Mean+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Large+Sample+Test+Single+Mean+tutorial)
+*    **Large Sample Test for Difference of Means**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Large+Sample+Test+Difference+of+Means+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Large+Sample+Test+Difference+of+Means+tutorial)
 
 ---
 
-### 2. 🧪 Large Sample Test for Single Proportion
+### **🧪 Test of Significance - Small Samples**
 
-Hypothesis testing for a single population proportion.
+Hypothesis testing for small samples.
 
--   **Sample Proportion:** Estimate of population proportion from a sample.
--   **Z-test:** Test statistic for proportions.
--   **Test procedure**: Formulate the hypothesis, calculate test statistic, compare with critical value.
+*   **Test for Single Mean for Small Samples:**  Statistical test used to test a hypothesis about a single population mean when the sample size is small, using t test instead of z test.
+*   **Test for Difference of Means for Small Samples:** Statistical test used to test a hypothesis about the difference between two population means when the sample size is small using t test.
+*  **Test for Ratio of Variances for Small Samples:** A statistical test used to test a hypothesis about the ratio of two population variances, using the F-test.
 
-**Example Problem:**
-A survey of 500 people shows that 60% of them like a product. The claim is that 70% of the customers like the product.
-*Solution:* This is the example of test for single proportion. The hypothesis will be tested by finding the test statistic using z-test and comparing with critical value, at a particular significance level.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Large+Sample+Test+Single+Proportion+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Large+Sample+Test+Single+Proportion+tutorial)
-
----
-
-### 3. 🧪 Large Sample Test for Difference of Proportions
-
-Hypothesis testing for the difference between two population proportions.
-
--   **Difference in Sample Proportions:** Estimate of the difference in population proportions.
--   **Z-test:** Test statistic for difference of proportions.
--   **Test Procedure**: Similar to test for single proportion, but involves sample proportions from two populations.
-
-**Example Problem:**
-A survey conducted in two different cities shows that 60% like product A in city 1 and 70% like the same product in city 2. Can it be concluded that the proportion is significantly different between the two cities?
-*Solution:* Use a large sample test for difference in proportions to test for hypothesis that proportions are same or different in the two cities.
+**Example Concept:**
+Why use a t-test instead of a Z-test for small samples?
+*Solution:* When the sample size is small (typically n < 30), the sample variance is not a good estimate for the population variance. The t-distribution accounts for this extra variability, making it more appropriate for small samples.
 
 🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Large+Sample+Test+Difference+Proportions+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Large+Sample+Test+Difference+Proportions+tutorial)
-
----
-
-### 4. 🧪 Large Sample Test for Single Mean
-
-Hypothesis testing for a single population mean.
-
--   **Sample Mean:** Estimate of population mean.
--   **Z-test:** Test statistic for means when population standard deviation is known.
--   **Test procedure**: Similar to the test for proportions but the test statistic used is Z test for means.
-
-**Example Problem:**
-A company claims that the average life of a light bulb is 1000 hours. A sample shows the average life is 950 hours, with a known population standard deviation. Is the claim valid?
-*Solution:* A Z-test for the mean is to be used here to test the hypothesis, by comparing the test statistic with critical values at a given significance level.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Large+Sample+Test+Single+Mean+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Large+Sample+Test+Single+Mean+tutorial)
-
----
-
-### 5. 🧪 Large Sample Test for Difference of Means
-
-Hypothesis testing for the difference between two population means.
-
--   **Difference in Sample Means:** Estimate of the difference in population means.
--   **Z-test:** Test statistic for difference of means.
--  **Test procedure**: Similar to test for single mean but sample means are taken from two different samples.
-
-**Example Problem:**
-The mean score of students in subject A is 80 and in subject B is 75 from different samples. Can it be concluded that both the means are different significantly? Assume population variances are known.
-*Solution:* Use a large sample test for difference in means here using Z-test to check if the two means are different.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Large+Sample+Test+Difference+Means+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Large+Sample+Test+Difference+Means+tutorial)
-
----
-
-### 6. 🧪 Test for Single Mean (Small Samples)
-
-Hypothesis testing for a single population mean when the sample size is small.
-
--   **T-Test:** Used when the population variance is unknown.
--   **Degrees of Freedom:** Used to determine the critical values from t-distribution table.
--  **Test Procedure**: Similar to test for large sample but test statistic and critical values are taken from t-distribution table.
-
-**Example Problem:**
-A sample of 20 items gave an average of 15 with a sample standard deviation of 3. If the population average is 16, is there evidence that the claim is wrong?
-*Solution:* Use one sample t-test here since population standard deviation is not known and a sample size is small. The test statistic will be calculated and compared with values in the t-table.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Small+Sample+Test+Single+Mean+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Small+Sample+Test+Single+Mean+tutorial)
-
----
-
-### 7. 🧪 Test for Difference of Means (Small Samples)
-
-Hypothesis testing for the difference between two population means when sample sizes are small.
-
--  **T-Test:** Used when population variance is unknown.
-- **Independent Samples**: Hypothesis test when samples are independent.
-- **Paired Samples**: Hypothesis testing when samples are dependent.
-
-**Example Problem:**
-Two different teaching methods were tried on two different sets of students. The mean scores in the test were 75 and 80 respectively, with given sample standard deviations and sample sizes for both the groups.
-*Solution:* Use t-test here for the difference of means to check if there is difference between means of both methods, this can be done for both independent and paired samples.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Small+Sample+Test+Difference+Means+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Small+Sample+Test+Difference+Means+tutorial)
-
----
-
-### 8. 🧪 Test for Ratio of Variances (Small Samples)
-
-Hypothesis testing for the ratio of two population variances.
-
--  **F-Test:** Used to compare sample variances.
--  **F-distribution**: Distribution used for hypothesis test for the ratio of variances.
--  **Test Procedure**: Calculating the test statistic, comparing the test statistic with F-table values.
-
-**Example Problem:**
-Two machines are producing the same type of items. Is there a significant difference in the variation of quality using the F test of variances by using samples from the two machines?
-*Solution:* Calculate F-test statistic using sample variances, and then compare the calculated F-statistic with the F table value to check for the hypothesis about equality of variances.
-
-🔗 **Learn More:**
--   [YouTube Tutorials](https://www.youtube.com/results?search_query=Test+for+Ratio+of+Variances+tutorial)
--   [Web Tutorials](https://www.google.com/search?q=Test+for+Ratio+of+Variances+tutorial)
+*   [YouTube Tutorials](https://www.youtube.com/results?search_query=Hypothesis+Testing+Small+Samples+tutorial)
+*   [Web Tutorials](https://www.google.com/search?q=Hypothesis+Testing+Small+Samples+tutorial)
+*   **Test for Single Mean for Small Samples**
+    *  [YouTube Tutorials](https://www.youtube.com/results?search_query=Small+Sample+Test+Single+Mean+tutorial)
+    * [Web Tutorials](https://www.google.com/search?q=Small+Sample+Test+Single+Mean+tutorial)
+*    **Test for Difference of Means for Small Samples**
+    * [YouTube Tutorials](https://www.youtube.com/results?search_query=Small+Sample+Test+Difference+of+Means+tutorial)
+    *  [Web Tutorials](https://www.google.com/search?q=Small+Sample+Test+Difference+of+Means+tutorial)
+*   **Test for Ratio of Variances for Small Samples**
+    *   [YouTube Tutorials](https://www.youtube.com/results?search_query=Test+for+Ratio+of+Variances+tutorial)
+    *   [Web Tutorials](https://www.google.com/search?q=Test+for+Ratio+of+Variances+tutorial)
 
 ---
 
 ### 🗓️ Study Schedule
--   **Week 1**: UNIT I Topics
--   **Week 2**: UNIT II Topics
--   **Week 3**: UNIT III Topics
--   **Week 4**: UNIT IV Topics
--   **Week 5**: UNIT V Topics
--   **Week 6**: Revision and practice
+
+*   **Week 1**: UNIT I Topics
+*   **Week 2**: UNIT II Topics
+*   **Week 3**: UNIT III Topics
+*   **Week 4**: UNIT IV Topics
+*   **Week 5**: UNIT V Topics
+*   **Week 6**: Revision and practice
 
 ---
 
 ### 🛠️ Tips for Exam Preparation
--   Focus on understanding the formulas and when to apply them.
--   Solve as many numerical problems as possible.
--   Use YouTube tutorials to visualize probability concepts.
--   Review the statistical tables for hypothesis testing.
--   Practice past question papers.
+
+*   Focus on understanding the core concepts and formulas for each topic.
+*   Practice solving numerical problems related to each distribution, curve fitting, and hypothesis testing.
+*  Understand the difference between various distributions, and when to use what method.
+*   Practice past question papers.
 
 ---
 
 ### 💡 How to Use This Repository
+
 1.  Navigate to the topic you want to learn.
 2.  Use the provided links to access relevant tutorials and resources.
 3.  Follow the study schedule to complete the syllabus in time.
-```
+
+---
+
+This completes the comprehensive tutorial document for Probability and Statistics. I have covered all topics you have listed in the syllabus and have provided learning resources for each of the topics. Remember to make good use of this and other resources to understand the concepts for success in the exam. Good luck!
