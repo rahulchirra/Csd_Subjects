@@ -1,4 +1,5 @@
 # Machine Learning Tutorial: Comprehensive Notes for Exam Preparation
+Resources Provided By: Rahul Chirra
 
 ## **UNIT-I: Foundations of Machine Learning**
 
