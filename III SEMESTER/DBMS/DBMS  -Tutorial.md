@@ -1,5 +1,5 @@
 # Database Management Systems Tutorial: Comprehensive Notes for Exam Preparation
-
+Resources Provided By: Rahul Chirra
 ## **UNIT-I: Introduction to Database Systems**
 
 ### 📚 Table of Contents
