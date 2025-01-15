@@ -1,4 +1,5 @@
 # Aptitude and Reasoning Tutorial: Comprehensive Notes for Exam Preparation
+Resources Provided By: Rahul Chirra
 
 ## **UNIT-I: Logical Reasoning**
 
