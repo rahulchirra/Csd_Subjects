@@ -1,5 +1,5 @@
 # Data Visualization Tutorial: Comprehensive Notes for Exam Preparation
-
+Resources Provided By: Rahul Chirra
 ## **UNIT-I: Foundations of Data Visualization**
 
 ### 📚 Table of Contents
