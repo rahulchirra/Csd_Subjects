@@ -1,5 +1,5 @@
 # Big Data Analytics Tutorial: Comprehensive Notes for Exam Preparation
-
+Resources Provided By: Rahul Chirra
 ## **UNIT-I: Introduction to Big Data**
 
 ### 📚 Table of Contents
