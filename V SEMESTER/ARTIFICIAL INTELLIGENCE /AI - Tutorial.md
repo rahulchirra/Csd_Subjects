@@ -1,5 +1,5 @@
 # Artificial Intelligence Tutorial: Comprehensive Notes for Exam Preparation
-
+Resources Provided By: Rahul Chirra
 ## **UNIT-I: Foundations of Artificial Intelligence**
 
 ### 📚 Table of Contents
