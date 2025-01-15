@@ -1,5 +1,5 @@
 # Operating Systems Tutorial: Comprehensive Notes for Exam Preparation
-
+Resources Provided By: Rahul Chirra
 ## **UNIT-I: Introduction to Operating Systems**
 
 ### 📚 Table of Contents
