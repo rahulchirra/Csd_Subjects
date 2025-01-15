@@ -1,4 +1,5 @@
 # Probability and Statistics Tutorial: Comprehensive Notes for Exam Preparation
+Resources Provided By: Rahul Chirra
 
 ## **UNIT-I: Foundations of Probability**
 
