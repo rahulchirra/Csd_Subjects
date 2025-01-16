@@ -1,137 +1,142 @@
-## Certifications (and Other Credentials)
+| S.No. | Abbreviation | Full Name/Description | Suggested Search Term | Notes | Web Search Link | Job Role(s) |
+|---|---|---|---|---|---|---|
+| 1 | ABV | Accredited in Business Valuation | "ABV certification" | | [https://www.aicpa.org/certification/abvcredential](https://www.aicpa.org/certification/abvcredential) | Business Valuation Analyst, Financial Analyst, Forensic Accountant |
+| 2 | ACAMS | Association of Certified Anti-Money Laundering Specialists | "ACAMS certification" | | [https://www.acams.org/en/certification](https://www.acams.org/en/certification) | AML Analyst, Compliance Officer, Financial Crime Investigator |
+| 3 | ACCA | Association of Chartered Certified Accountants | "ACCA qualification" | Qualification, not just a certificate | [https://www.accaglobal.com/gb/en/qualifications/why-acca.html](https://www.accaglobal.com/gb/en/qualifications/why-acca.html) | Accountant, Auditor, Finance Manager |
+| 4 |  | Amazon Web Services Data Analytics Specialty Certification | "AWS Certified Data Analytics - Specialty" | | [https://aws.amazon.com/certification/certified-data-analytics-specialty/](https://aws.amazon.com/certification/certified-data-analytics-specialty/) | Data Engineer, Data Analyst, Business Intelligence Developer |
+| 5 |  | Any of Google Cloud Certifications (Too broad - specify area) | "Google Cloud certifications" + *[area]* | | [https://cloud.google.com/certification/](https://cloud.google.com/certification/) | Cloud Engineer, Data Engineer, Cloud Architect, DevOps Engineer |
+| 6 |  | APP LEVEL II | | Likely company-specific |  |  |
+| 7 |  | Argus | "Argus Enterprise training" | Software-specific training | [https://www.argus.com/en/training](https://www.argus.com/en/training) | Real Estate Analyst, Financial Analyst |
+| 8 | ASA | (Ambiguous - needs context) |  | |  |  |
+| 9 |  | AWS Certified DevOps Engineer - Professional | "AWS Certified DevOps Engineer - Professional" | | [https://aws.amazon.com/certification/certified-devops-engineer-professional/](https://aws.amazon.com/certification/certified-devops-engineer-professional/) | DevOps Engineer, Cloud Engineer, Systems Engineer |
+| 10 |  | AWS Certified Solutions Architect – Associate | "AWS Certified Solutions Architect – Associate" | | [https://aws.amazon.com/certification/certified-solutions-architect-associate/](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | Cloud Architect, Solutions Architect, Cloud Engineer |
+| 11 |  | AWS Certified Solutions Architect – Professional / Developer Certificate (Two separate certifications) | "AWS Certified Solutions Architect – Professional" / "AWS Certified Developer – Associate" | | [https://aws.amazon.com/certification/certified-solutions-architect-professional/](https://aws.amazon.com/certification/certified-solutions-architect-professional/) & [https://aws.amazon.com/certification/certified-developer-associate/](https://aws.amazon.com/certification/certified-developer-associate/) | Cloud Architect, Solutions Architect, Software Developer |
+| 12 | CA | Chartered Accountant (Specify country) | "Chartered Accountant" + *[country]* | |  | Accountant, Auditor, Financial Controller |
+| 13 | CAIA | Chartered Alternative Investment Analyst | "CAIA Charter" | | [https://caia.org/](https://caia.org/) | Investment Analyst, Portfolio Manager, Hedge Fund Manager |
+| 14 | CBCP | Certified Business Continuity Professional | "DRII CBCP" | | [https://drii.org/certification/certified-business-continuity-professional](https://drii.org/certification/certified-business-continuity-professional) | Business Continuity Planner, Disaster Recovery Specialist, Risk Manager |
+| 15 | CBCP/MBCP | Certified Business Continuity Professional/Master Business Continuity Professional | "DRII CBCP" / "DRII MBCP" | | [https://drii.org/certification/certified-business-continuity-professional](https://drii.org/certification/certified-business-continuity-professional) & [https://drii.org/certification/master-business-continuity-professional](https://drii.org/certification/master-business-continuity-professional) | Business Continuity Manager, Disaster Recovery Manager, Resilience Manager |
+| 16 | CCA | Certified Cost Accountant | "CCA certification AACE" | | [https://www.aacei.org/certification/certified-cost-professional](https://www.aacei.org/certification/certified-cost-professional) | Cost Accountant, Cost Analyst, Project Controls Specialist |
+| 17 | CCEP | Certified Compliance and Ethics Professional | "SCCE CCEP" | | [https://corporatecompliance.org/certification/ccep](https://corporatecompliance.org/certification/ccep) | Compliance Officer, Ethics Officer, Compliance Analyst |
+| 18 | CCIE | Cisco Certified Internetwork Expert | "Cisco CCIE" | | [https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie.html](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/expert/ccie.html) | Network Engineer, Network Architect, Senior IT Engineer |
+| 19 | CCS | (Ambiguous) |  | |  |  |
+| 20 | CCSP | Certified Cloud Security Professional | "(ISC)² CCSP" | | [https://www.isc2.org/Certifications/CCSP](https://www.isc2.org/Certifications/CCSP) | Cloud Security Engineer, Cloud Security Architect, Security Analyst |
+| 21 | CDFM | Certified Defense Financial Manager | "ASMC CDFM" | | [https://asmconline.org/certification/cdfm/](https://asmconline.org/certification/cdfm/) | Government Financial Manager, Defense Accountant, Budget Analyst |
+| 22 | CEH | Certified Ethical Hacker | "EC-Council CEH" | | [https://www.eccouncil.org/certifications/certified-ethical-hacker](https://www.eccouncil.org/certifications/certified-ethical-hacker) | Penetration Tester, Security Analyst, Ethical Hacker |
+| 23 | CEIV | Certified in Exhibition and Event Industry | "IAEE CEIV" | | [https://www.iaee.com/learn/certification/ceiv](https://www.iaee.com/learn/certification/ceiv) | Event Planner, Exhibition Manager, Trade Show Manager |
+| 24 |  | Certification in Quantitative Finance (General term) | "Quantitative Finance Certifications" | |  | Quantitative Analyst, Financial Engineer, Data Scientist |
+| 25 | CFA | Chartered Financial Analyst | "CFA Institute CFA" | | [https://www.cfainstitute.org/en/programs/cfa](https://www.cfainstitute.org/en/programs/cfa) | Investment Analyst, Portfolio Manager, Financial Analyst |
+| 26 | CFE | Certified Fraud Examiner | "ACFE CFE" | | [https://www.acfe.com/cfe-credential.aspx](https://www.acfe.com/cfe-credential.aspx) | Fraud Examiner, Forensic Accountant, Internal Auditor |
+| 27 | CFP | Certified Financial Planner | "CFP Board Certification" | | [https://www.cfp.net/get-certified](https://www.cfp.net/get-certified) | Financial Planner, Wealth Advisor, Financial Consultant |
+| 28 | CGFM | Certified Government Financial Manager | "AGA CGFM" | | [https://www.agacgfm.org/cgfm-certification](https://www.agacgfm.org/cgfm-certification) | Government Accountant, Budget Analyst, Financial Manager |
+| 29 | CGMA | Chartered Global Management Accountant | "CGMA designation" | Designation, not just a certificate | [https://www.cgma.org/](https://www.cgma.org/) | Management Accountant, Financial Analyst, Business Analyst |
+| 30 | CHC | Certified Healthcare Constructor | "AHA CHC" | | [https://www.aha.org/education/certification/chc](https://www.aha.org/education/certification/chc) | Healthcare Construction Manager, Project Manager |
+| 31 | CHFP | Certified Healthcare Financial Professional | "HFMA CHFP" | | [https://www.hfma.org/career-development/certification/chfp-certification.html](https://www.hfma.org/career-development/certification/chfp-certification.html) | Healthcare Financial Analyst, Healthcare Accountant, Revenue Cycle Analyst |
+| 32 | CHFR | Certified Healthcare Revenue Integrity Professional | "NAHRI CHFR" | | [https://nahri.org/chfr-certification/](https://nahri.org/chfr-certification/) | Revenue Integrity Analyst, Revenue Cycle Specialist |
+| 33 | CIA | Certified Internal Auditor | "IIA CIA" | | [https://www.theiia.org/en/certifications/certified-internal-auditor/](https://www.theiia.org/en/certifications/certified-internal-auditor/) | Internal Auditor, Compliance Auditor, Risk Analyst |
+| 34 | CIMA | Chartered Institute of Management Accountants | "CIMA qualification" | Professional qualification | [https://www.cimaglobal.com/](https://www.cimaglobal.com/) | Management Accountant, Financial Analyst, Business Analyst |
+| 35 | CIPM | Certificate in Investment Performance Measurement | "CFA Institute CIPM" | | [https://www.cfainstitute.org/en/programs/cipm](https://www.cfainstitute.org/en/programs/cipm) | Investment Performance Analyst, Performance Measurement Specialist, Portfolio Analyst |
+| 36 | CIPP | Certified Information Privacy Professional | "IAPP CIPP" | Various specializations exist (e.g., CIPP/E, CIPP/US) | [https://iapp.org/certify/cipp/](https://iapp.org/certify/cipp/) | Privacy Analyst, Data Protection Officer, Compliance Officer |
+| 37 | CIRA | Certified Information Risk Auditor | "ISACA CIRA" | | [https://www.isaca.org/credentialing/certified-information-risk-auditor](https://www.isaca.org/credentialing/certified-information-risk-auditor) | IT Auditor, Risk Auditor, Security Auditor |
+| 38 | CISA | Certified Information Systems Auditor | "ISACA CISA" | | [https://www.isaca.org/credentialing/cisa](https://www.isaca.org/credentialing/cisa) | IT Auditor, Systems Auditor, Information Security Analyst |
+| 39 | CISM | Certified Information Security Manager | "ISACA CISM" | | [https://www.isaca.org/credentialing/cism](https://www.isaca.org/credentialing/cism) | Information Security Manager, Security Consultant, IT Manager |
+| 40 | CISSP | Certified Information Systems Security Professional | "(ISC)² CISSP" | | [https://www.isc2.org/Certifications/CISSP](https://www.isc2.org/Certifications/CISSP) | Security Analyst, Security Engineer, Security Manager |
+| 41 |  | Claritas Investment/CFA Institute Investment Foundations Certificate | "CFA Institute Investment Foundations Certificate" | | [https://www.cfainstitute.org/en/programs/investment-foundations](https://www.cfainstitute.org/en/programs/investment-foundations) | Entry-Level Investment Roles, Financial Analyst, Research Analyst |
+| 42 |  | Cloudera Certified Associate: Data Analyst |  | **Retired** - Search for current Cloudera data certifications | [https://www.cloudera.com/training/certification.html](https://www.cloudera.com/training/certification.html) | Data Analyst, Business Intelligence Analyst, Data Engineer |
+| 43 |  | Cloudera Certified Professional: CCP Data Engineer |  | **Retired** - Search for current Cloudera data certifications | [https://www.cloudera.com/training/certification.html](https://www.cloudera.com/training/certification.html) | Data Engineer, Big Data Engineer, Data Architect |
+| 44 |  | Data Science Council of America (DASCA) Certifications | "DASCA certifications" + *specific certification name* | DASCA offers several certifications | [https://www.dasca.org/](https://www.dasca.org/) | Data Scientist, Data Analyst, Machine Learning Engineer |
+| 45 | CMA | Certified Management Accountant | "IMA CMA" | | [https://www.imanet.org/cma-certification](https://www.imanet.org/cma-certification) | Management Accountant, Cost Accountant, Financial Analyst |
+| 46 | CMO | Chief Marketing Officer | "Marketing Certifications" | Job title, not a certification |  | Chief Marketing Officer |
+| 47 | CPA | Certified Public Accountant (Varies by location) | "CPA" + *[location]* | |  | Accountant, Auditor, Tax Specialist |
+| 48 | CPC | Certified Professional Coder | "AAPC CPC" | | [https://www.aapc.com/certification/cpc/](https://www.aapc.com/certification/cpc/) | Medical Coder, Billing Specialist |
+| 49 | CQA | Certified Quality Auditor | "ASQ CQA" | | [https://asq.org/cert/quality-auditor](https://asq.org/cert/quality-auditor) | Quality Auditor, Internal Auditor |
+| 50 | CQE | Certified Quality Engineer | "ASQ CQE" | | [https://asq.org/cert/quality-engineer](https://asq.org/cert/quality-engineer) | Quality Engineer, Process Engineer |
+| 51 | CQF | Certificate in Quantitative Finance | "CQF Institute" | | [https://www.cqf.com/](https://www.cqf.com/) | Quantitative Analyst, Financial Engineer, Risk Analyst |
+| 52 | CRI | Certified Risk and Insurance Specialist | "The Institutes CRI" | | [https://www.theinstitutes.org/designations/certified-risk-and-insurance-specialist](https://www.theinstitutes.org/designations/certified-risk-and-insurance-specialist) | Risk Analyst, Insurance Underwriter, Insurance Agent |
+| 53 | CRISC | Certified in Risk and Information Systems Control | "ISACA CRISC" | | [https://www.isaca.org/credentialing/crisc](https://www.isaca.org/credentialing/crisc) | IT Risk Analyst, IT Auditor, Security Analyst |
+| 54 | CRMA | Certification in Risk Management Assurance | "IIA CRMA" | | [https://www.theiia.org/en/certifications/certification-in-risk-management-assurance/](https://www.theiia.org/en/certifications/certification-in-risk-management-assurance/) | Risk Assurance Manager, Risk Consultant |
+| 55 | CRU | Certified Recovery Specialist | "RIAI CRU" | | [https://www.riai.org/cru-certification/](https://www.riai.org/cru-certification/) | Recovery Specialist, Mental Health Professional |
+| 56 | CSAM | Certified System Administration Manager | "CSAM certification" | Not very common, specify vendor if known |  | System Administrator Manager, IT Manager |
+| 57 | CSCP | Certified Supply Chain Professional | "APICS CSCP" | | [https://www.ascm.org/credentials-education/credentials/cscp/](https://www.ascm.org/credentials-education/credentials/cscp/) | Supply Chain Manager, Logistics Manager, Procurement Manager |
+| 58 | CTP | Certified Treasury Professional | "AFP CTP" | | [https://www.afponline.org/certification/ctp](https://www.afponline.org/certification/ctp) | Treasury Analyst, Treasury Manager, Cash Manager |
+| 59 | DAMA CDMP | DAMA Certified Data Management Professional | "DAMA certifications" | **Retired** | [https://dama.org/content/certification](https://dama.org/content/certification) | Data Manager, Data Governance Analyst, Data Architect |
+| 60 |  | DAMA/ICCP - Certification in Data Management |  | **Retired** |  |  |
+| 61 |  | Dell Technologies Data Scientist Advanced Analytics Specialist (DCS-DS) |  | **Retired/Transitioned** - search for current Dell data science certifications | [https://www.delltechnologies.com/en-us/training-certification/index.htm](https://www.delltechnologies.com/en-us/training-certification/index.htm) | Data Scientist, Machine Learning Engineer |
+| 62 |  | Dell Technologies Data Scientist Associate (DCA-DS) |  | **Retired/Transitioned** - search for current Dell data science certifications | [https://www.delltechnologies.com/en-us/training-certification/index.htm](https://www.delltechnologies.com/en-us/training-certification/index.htm) | Data Scientist, Data Analyst |
+| 63 | EnCE | EnCase Certified Examiner | "OpenText EnCE" | | [https://www.opentext.com/products/encase-forensic/certification](https://www.opentext.com/products/encase-forensic/certification) | Digital Forensics Examiner, Incident Responder |
+| 64 | ERP | (Not a certification - refers to software. Specify vendor for certifications) | "[ERP Vendor] certifications" (e.g., "SAP certifications") | |  | ERP Consultant, ERP Specialist, System Analyst |
+| 65 |  | FOR572: Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response | "SANS FOR572" | | [https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-analysis-incident-response/](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-analysis-incident-response/) | Network Forensics Analyst, Threat Hunter, Incident Responder |
+| 66 |  | FOR578: Cyber Threat Intelligence | "SANS FOR578" | | [https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/) | Cyber Threat Intelligence Analyst, Security Analyst |
+| 67 |  | FOR610: Reverse-Engineering Malware: Malware Analysis Tools and Techniques | "SANS FOR610" | | [https://www.sans.org/cyber-security-courses/reverse-engineering-malware/](https://www.sans.org/cyber-security-courses/reverse-engineering-malware/) | Malware Analyst, Reverse Engineer |
+| 68 | FRM | Financial Risk Manager | "GARP FRM" | | [https://www.garp.org/frm](https://www.garp.org/frm) | Risk Manager, Financial Analyst, Credit Risk Analyst |
+| 69 | GCFE | GIAC Certified Forensic Examiner | "SANS GCFE" | | [https://www.giac.org/certifications/certified-forensic-examiner-gcfe/](https://www.giac.org/certifications/certified-forensic-examiner-gcfe/) | Digital Forensics Examiner, Incident Responder |
+| 70 | GCIH | GIAC Certified Incident Handler | "SANS GCIH" | | [https://www.giac.org/certifications/certified-incident-handler-gcih/](https://www.giac.org/certifications/certified-incident-handler-gcih/) | Incident Responder, Security Analyst |
+| 71 |  | Google Certified Professional Data Engineer | "Google Cloud Certified Professional Data Engineer" | | [https://cloud.google.com/certification/data-engineer](https://cloud.google.com/certification/data-engineer) | Data Engineer, Data Architect, Cloud Engineer |
+| 72 | GREM | GIAC Reverse Engineering Malware | "SANS GREM" | | [https://www.giac.org/certifications/reverse-engineering-malware-grem/](https://www.giac.org/certifications/reverse-engineering-malware-grem/) | Malware Analyst, Reverse Engineer, Security Analyst |
+| 73 |  | HDP Data Science (Hortonworks, now part of Cloudera) |  | Search for current Cloudera data science certifications | [https://www.cloudera.com/training/certification.html](https://www.cloudera.com/training/certification.html) | Data Scientist, Data Engineer, Machine Learning Engineer |
+| 74 | IACCM | International Association for Contract & Commercial Management (Various programs, not a single certification) | "IACCM learning" | | [https://www.worldcc.com/](https://www.worldcc.com/) | Contract Manager, Commercial Manager |
+| 75 |  | IBM Certified System Administrator - DB2 12 for z/OS (08003802) | "IBM Certified System Administrator - DB2" | | [https://www.ibm.com/training/certification/C0003802](https://www.ibm.com/training/certification/C0003802) | Database Administrator, Systems Administrator, Database Engineer |
+| 76 |  | IBM Watson IoT Data Science Certificate |  | Discontinued - search for current IBM data science/IoT certifications | [https://www.ibm.com/training/](https://www.ibm.com/training/) | Data Scientist, IoT Developer |
+| 77 | ICCP | Institute for Certification of Computing Professionals (No longer active) |  |  |  |  |
+| 78 | ICCP CDP | ICCP Certified Data Professional |  | **Retired** |  |  |
+| 79 | ICCP DGSP | ICCP Data Governance and Stewardship Professional |  | **Retired** |  |  |
+| 80 |  | IFRS Diploma | "DipIFR" | | [https://www.accaglobal.com/gb/en/qualifications/glance/dipifr.html](https://www.accaglobal.com/gb/en/qualifications/glance/dipifr.html) | Accountant, Financial Analyst |
+| 81 | INFORMS-CAP | Certified Analytics Professional | "INFORMS CAP" | | [https://www.informs.org/certification](https://www.informs.org/certification) | Analytics Professional, Data Analyst, Operations Research Analyst |
+| 82 |  | ISO 27001:2013 Lead Auditor | "ISO 27001 Lead Auditor training" | Various providers |  | Information Security Auditor, Lead Auditor |
+| 83 | ISTQB | International Software Testing Qualifications Board (Various certifications) | "ISTQB certifications" | | [https://www.istqb.org/](https://www.istqb.org/) | Software Tester, QA Engineer |
+| 84 | JD | Juris Doctor |  | Law degree, not a certification |  | Lawyer, Attorney |
+| 85 |  | LEED Accreditation | "USGBC LEED credentials" | | [https://www.usgbc.org/credentials](https://www.usgbc.org/credentials) | Sustainability Consultant, Green Building Specialist, Architect |
+| 86 | MAI | Member, Appraisal Institute | "Appraisal Institute MAI" | | [https://www.appraisalinstitute.org/](https://www.appraisalinstitute.org/) | Real Estate Appraiser, Commercial Appraiser |
+| 87 | MBCP | Master Business Continuity Professional | "DRII MBCP" | | [https://drii.org/certification/master-business-continuity-professional](https://drii.org/certification/master-business-continuity-professional) | Business Continuity Manager, Resilience Manager |
+| 88 | MCSA | Microsoft Certified Solutions Associate (Many specializations retired - search for current role-based certs) | "Microsoft certifications" + *area of interest* | | [https://learn.microsoft.com/en-us/certifications/](https://learn.microsoft.com/en-us/certifications/) | System Administrator, IT Professional |
+| 89 | MCSD | Microsoft Certified Solutions Developer (Retired - search for current role-based certs) | "Microsoft certifications developer" | | [https://learn.microsoft.com/en-us/certifications/](https://learn.microsoft.com/en-us/certifications/) | Software Developer, Application Developer |
+| 90 |  | Microsoft Certified Azure Data Scientist Associate |  | **Retired** - search for current Azure data science role-based certifications | [https://learn.microsoft.com/en-us/certifications/](https://learn.microsoft.com/en-us/certifications/) | Data Scientist, Machine Learning Engineer |
+| 91 |  | Microsoft Certified Solutions Architect - Expert | "Microsoft Certified: Azure Solutions Architect Expert" |  | [https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/) | Cloud Architect, Solutions Architect |
+| 92 |  | Microsoft Certified Solutions Associate - Power BI | "Microsoft Certified: Power BI Data Analyst Associate" | Was previously MCSA | [https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/) | Data Analyst, Business Intelligence Analyst |
+| 93 |  | Microsoft Certified Solutions Associate- SQL 2016 BI Development |  | **Retired** - search current Microsoft Data certifications | [https://learn.microsoft.com/en-us/certifications/](https://learn.microsoft.com/en-us/certifications/) | BI Developer, Data Analyst |
+| 94 |  | Microsoft Certified Solutions Associate- SQL 2016 Database Development |  | **Retired** - search current Microsoft Data certifications | [https://learn.microsoft.com/en-us/certifications/](https://learn.microsoft.com/en-us/certifications/) | Database Developer, Database Administrator |
+| 95 |  | Microsoft Certified Systems Engineer - Data Management and Analytics |  | **Retired** - search current role-based certifications | [https://learn.microsoft.com/en-us/certifications/](https://learn.microsoft.com/en-us/certifications/) | Data Engineer, Data Analyst |
+| 96 |  | Microsoft Certified: Azure Data Engineer Associate | "Microsoft Certified: Azure Data Engineer Associate" | | [https://learn.microsoft.com/en-us/certifications/azure-data-engineer/](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/) | Data Engineer, Cloud Engineer |
+| 97 |  | Microsoft Certified: Azure Database Administrator Associate | "Microsoft Certified: Azure Database Administrator Associate" | | [https://learn.microsoft.com/en-us/certifications/azure-database-administrator/](https://learn.microsoft.com/en-us/certifications/azure-database-administrator/) | Database Administrator, Cloud DBA |
+| 98 |  | Microsoft Certified: Azure Fundamentals | "Microsoft Certified: Azure Fundamentals" | | [https://learn.microsoft.com/en-us/certifications/azure-fundamentals/](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) | Cloud Engineer, IT Professional |
+| 99 |  | Microsoft certified: Data analysts associate |  | Check Microsoft's learn platform | [https://learn.microsoft.com/en-us/certifications/data-analyst-associate/](https://learn.microsoft.com/en-us/certifications/data-analyst-associate/) | Data Analyst, Business Intelligence Analyst |
+| 100 |  | Microsoft Professional Program in Data Science | "Microsoft Professional Program for Data Science" | No longer offered by Microsoft |  | Data Scientist, Data Analyst |
+| 101 |  | Network+ AFT | "CompTIA Network+" | AFT may be training specific, CompTIA offers standard Network+ | [https://www.comptia.org/certifications/network](https://www.comptia.org/certifications/network) | Network Technician, Network Administrator, IT Support Specialist |
+| 102 | OSCP | Offensive Security Certified Professional | "Offensive Security OSCP" | | [https://www.offensive-security.com/pwk-oscp/](https://www.offensive-security.com/pwk-oscp/) | Penetration Tester, Security Analyst |
+| 103 |  | Oracle Certified Expert (For various products) | "Oracle certifications" + *[product name]* | | [https://education.oracle.com/](https://education.oracle.com/) | Oracle DBA, Oracle Developer, Application Developer |
+| 104 | OSCE | Oracle Certified Associate, Java SE 8 Programmer | "Oracle Certified Associate Java" | | [https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackP_OCAJAVA8](https://education.oracle.com/oracle-certified-associate-java-se-8-programmer/trackP_OCAJAVA8) | Java Developer, Software Developer |
+| 105 |  | Others |  | Not a certification |  |  |
+| 106 | PE | Professional Engineer (Licensing varies by location) | "Professional Engineer license" + *[location]* | |  |  Engineer (various specialties) |
+| 107 | PMP | Project Management Professional | "PMI PMP" | | [https://www.pmi.org/certifications/project-management-pmp](https://www.pmi.org/certifications/project-management-pmp) | Project Manager, Program Manager |
+| 108 | PRM | Professional Risk Manager | "PRMIA PRM" | | [https://www.prmia.org/prm-designation](https://www.prmia.org/prm-designation) | Risk Manager, Financial Analyst |
+| 109 | PRMIA CCRM | PRMIA Certified Credit Risk Manager | "PRMIA CCRM" | | [https://www.prmia.org/ccrm-designation](https://www.prmia.org/ccrm-designation) | Credit Risk Manager, Risk Analyst |
+| 110 | PRMIA M1ARM | PRMIA Market Risk Management Certificate | "PRMIA M1ARM" | | [https://www.prmia.org/m1arm-certificate](https://www.prmia.org/m1arm-certificate) | Market Risk Analyst, Risk Analyst |
+| 111 | PRMIA ORM | PRMIA Operational Risk Manager | "PRMIA ORM" | | [https://www.prmia.org/orm-certificate](https://www.prmia.org/orm-certificate) | Operational Risk Manager, Risk Analyst |
+| 112 |  | Professional Cloud Security Engineer for GCP | "Google Cloud Professional Cloud Security Engineer" | | [https://cloud.google.com/certification/cloud-security-engineer](https://cloud.google.com/certification/cloud-security-engineer) | Cloud Security Engineer, Security Architect |
+| 113 | RAC | (Ambiguous) |  | |  |  |
+| 114 |  | Registered General Securities Principal (FINRA) / Registered Representative (FINRA) | "FINRA licenses" | Licenses, not certifications | [https://www.finra.org/](https://www.finra.org/) | Securities Broker, Financial Advisor |
+| 115 | RICS | Royal Institution of Chartered Surveyors (Various qualifications) | "RICS qualifications" | | [https://www.rics.org/](https://www.rics.org/) | Surveyor, Real Estate Professional |
+| 116 | RSS | (Ambiguous) |  |  |  |  |
+| 117 |  | SABSA (Practitioner Level) | "SABSA certifications" | | [https://sabsa.org/certification/](https://sabsa.org/certification/) | Security Architect, Enterprise Architect |
+| 118 |  | SANS GIAC GCTI | "SANS GCTI" | | [https://www.giac.org/certifications/cyber-threat-intelligence-gcti/](https://www.giac.org/certifications/cyber-threat-intelligence-gcti/) | Cyber Threat Intelligence Analyst, Security Analyst |
+| 119 |  | SAP Certified Technology Associate - System Administration (SAP HANA as a Database) with SAP NetWeaver 7.5 (C_TADM55_75) |  | Check SAP website for current versions | [https://training.sap.com/](https://training.sap.com/) | SAP Basis Administrator, System Administrator |
+| 120 |  | SAP Certified Technology Associate - System Administration (SAP HANA) with SAP NetWeaver 7.5 (C_TADM55_75) |  | Check SAP website for current versions | [https://training.sap.com/](https://training.sap.com/) | SAP Basis Administrator, System Administrator |
+| 121 |  | SAP Certified Technology Professional - System Security Architect (P_TSEC10_75) |  | Check SAP website for current versions | [https://training.sap.com/](https://training.sap.com/) | SAP Security Architect, Security Consultant |
+| 122 |  | SAP S/4 HANA Treasury Certification |  | Check SAP website for current versions | [https://training.sap.com/](https://training.sap.com/) | SAP Treasury Consultant, Treasury Analyst |
+| 123 |  | SAS Advanced Programming |  | Check SAS website for current certifications | [https://www.sas.com/en_us/certification/credentials.html](https://www.sas.com/en_us/certification/credentials.html) | SAS Programmer, Data Analyst |
+| 124 |  | SAS Base programming |  | Check SAS website for current certifications | [https://www.sas.com/en_us/certification/credentials.html](https://www.sas.com/en_us/certification/credentials.html) | SAS Programmer, Data Analyst |
+| 125 |  | SAS Certified Advanced Analytics Professional |  | Check SAS website for current certifications | [https://www.sas.com/en_us/certification/credentials.html](https://www.sas.com/en_us/certification/credentials.html) | Data Analyst, Advanced Analytics Professional |
+Okay, I understand. You'd like me to provide the information for entry number 126 specifically. Here's that row from the table:
 
-| S.No. | Abbreviation | Full Name/Description | Suggested Search Term | Notes |
-|---|---|---|---|---|
-| 1 | ABV | Accredited in Business Valuation | "ABV certification" | |
-| 2 | ACAMS | Association of Certified Anti-Money Laundering Specialists | "ACAMS certification" | |
-| 3 | ACCA | Association of Chartered Certified Accountants | "ACCA qualification" | Qualification, not just a certificate |
-| 4 | | Amazon Web Services Data Analytics Specialty Certification | "AWS Certified Data Analytics - Specialty" | |
-| 5 | | Any of Google Cloud Certifications (Too broad - specify area) | "Google Cloud certifications" + *[area]* | |
-| 6 | | APP LEVEL II | | Likely company-specific |
-| 7 | | Argus | "Argus Enterprise training" | Software-specific training |
-| 8 | ASA | (Ambiguous - needs context) | | |
-| 9 | | AWS Certified DevOps Engineer - Professional | "AWS Certified DevOps Engineer - Professional" | |
-| 10 | | AWS Certified Solutions Architect – Associate | "AWS Certified Solutions Architect – Associate" | |
-| 11 | | AWS Certified Solutions Architect – Professional / Developer Certificate (Two separate certifications) | "AWS Certified Solutions Architect – Professional" / "AWS Certified Developer – Associate" | |
-| 12 | CA | Chartered Accountant (Specify country) | "Chartered Accountant" + *[country]* | |
-| 13 | CAIA | Chartered Alternative Investment Analyst | "CAIA Charter" | |
-| 14 | CBCP | Certified Business Continuity Professional | "DRII CBCP" | |
-| 15 | CBCP/MBCP | Certified Business Continuity Professional/Master Business Continuity Professional | "DRII CBCP" / "DRII MBCP" | |
-| 16 | CCA | Certified Cost Accountant | "CCA certification AACE" | |
-| 17 | CCEP | Certified Compliance and Ethics Professional | "SCCE CCEP" | |
-| 18 | CCIE | Cisco Certified Internetwork Expert | "Cisco CCIE" | |
-| 19 | CCS | (Ambiguous) | | |
-| 20 | CCSP | Certified Cloud Security Professional | "(ISC)² CCSP" | |
-| 21 | CDFM | Certified Defense Financial Manager | "ASMC CDFM" | |
-| 22 | CEH | Certified Ethical Hacker | "EC-Council CEH" | |
-| 23 | CEIV | Certified in Exhibition and Event Industry | "IAEE CEIV" | |
-| 24 | | Certification in Quantitative Finance (General term) | "Quantitative Finance Certifications" | |
-| 25 | CFA | Chartered Financial Analyst | "CFA Institute CFA" | |
-| 26 | CFE | Certified Fraud Examiner | "ACFE CFE" | |
-| 27 | CFP | Certified Financial Planner | "CFP Board Certification" | |
-| 28 | CGFM | Certified Government Financial Manager | "AGA CGFM" | |
-| 29 | CGMA | Chartered Global Management Accountant | "CGMA designation" | Designation, not just a certificate |
-| 30 | CHC | Certified Healthcare Constructor | "AHA CHC" | |
-| 31 | CHFP | Certified Healthcare Financial Professional | "HFMA CHFP" | |
-| 32 | CHFR | Certified Healthcare Revenue Integrity Professional | "NAHRI CHFR" | |
-| 33 | CIA | Certified Internal Auditor | "IIA CIA" | |
-| 34 | CIMA | Chartered Institute of Management Accountants | "CIMA qualification" | Professional qualification |
-| 35 | CIPM | Certificate in Investment Performance Measurement | "CFA Institute CIPM" | |
-| 36 | CIPP | Certified Information Privacy Professional | "IAPP CIPP" | Various specializations exist (e.g., CIPP/E, CIPP/US) |
-| 37 | CIRA | Certified Information Risk Auditor | "ISACA CIRA" | |
-| 38 | CISA | Certified Information Systems Auditor | "ISACA CISA" | |
-| 39 | CISM | Certified Information Security Manager | "ISACA CISM" | |
-| 40 | CISSP | Certified Information Systems Security Professional | "(ISC)² CISSP" | |
-| 41 | | Claritas Investment/CFA Institute Investment Foundations Certificate | "CFA Institute Investment Foundations Certificate" | |
-| 42 | | Cloudera Certified Associate: Data Analyst |  | **Retired** - Search for current Cloudera data certifications |
-| 43 | | Cloudera Certified Professional: CCP Data Engineer |  | **Retired** - Search for current Cloudera data certifications |
-| 44 | | Data Science Council of America (DASCA) Certifications | "DASCA certifications" + *specific certification name* | DASCA offers several certifications |
-| 45 | CMA | Certified Management Accountant | "IMA CMA" | |
-| 46 | CMO | Chief Marketing Officer | "Marketing Certifications" | Job title, not a certification |
-| 47 | CPA | Certified Public Accountant (Varies by location) | "CPA" + *[location]* | |
-| 48 | CPC | Certified Professional Coder | "AAPC CPC" | |
-| 49 | CQA | Certified Quality Auditor | "ASQ CQA" | |
-| 50 | CQE | Certified Quality Engineer | "ASQ CQE" | |
-| 51 | CQF | Certificate in Quantitative Finance | "CQF Institute" | |
-| 52 | CRI | Certified Risk and Insurance Specialist | "The Institutes CRI" | |
-| 53 | CRISC | Certified in Risk and Information Systems Control | "ISACA CRISC" | |
-| 54 | CRMA | Certification in Risk Management Assurance | "IIA CRMA" | |
-| 55 | CRU | Certified Recovery Specialist | "RIAI CRU" | |
-| 56 | CSAM | Certified System Administration Manager | "CSAM certification" | Not very common, specify vendor if known |
-| 57 | CSCP | Certified Supply Chain Professional | "APICS CSCP" | |
-| 58 | CTP | Certified Treasury Professional | "AFP CTP" | |
-| 59 | DAMA CDMP | DAMA Certified Data Management Professional | "DAMA certifications" | **Retired** |
-| 60 | | DAMA/ICCP - Certification in Data Management |  | **Retired** |
-| 61 | | Dell Technologies Data Scientist Advanced Analytics Specialist (DCS-DS) |  | **Retired/Transitioned** - search for current Dell data science certifications |
-| 62 | | Dell Technologies Data Scientist Associate (DCA-DS) |  | **Retired/Transitioned** - search for current Dell data science certifications |
-| 63 | EnCE | EnCase Certified Examiner | "OpenText EnCE" | |
-| 64 | ERP | (Not a certification - refers to software. Specify vendor for certifications) | "[ERP Vendor] certifications" (e.g., "SAP certifications") | |
-| 65 | | FOR572: Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response | "SANS FOR572" | |
-| 66 | | FOR578: Cyber Threat Intelligence | "SANS FOR578" | |
-| 67 | | FOR610: Reverse-Engineering Malware: Malware Analysis Tools and Techniques | "SANS FOR610" | |
-| 68 | FRM | Financial Risk Manager | "GARP FRM" | |
-| 69 | GCFE | GIAC Certified Forensic Examiner | "SANS GCFE" | |
-| 70 | GCIH | GIAC Certified Incident Handler | "SANS GCIH" | |
-| 71 | | Google Certified Professional Data Engineer | "Google Cloud Certified Professional Data Engineer" | |
-| 72 | GREM | GIAC Reverse Engineering Malware | "SANS GREM" | |
-| 73 | | HDP Data Science (Hortonworks, now part of Cloudera) |  | Search for current Cloudera data science certifications |
-| 74 | IACCM | International Association for Contract & Commercial Management (Various programs, not a single certification) | "IACCM learning" | |
-| 75 | | IBM Certified System Administrator - DB2 12 for z/OS (08003802) | "IBM Certified System Administrator - DB2" | |
-| 76 | | IBM Watson IoT Data Science Certificate |  | Discontinued - search for current IBM data science/IoT certifications |
-| 77 | ICCP | Institute for Certification of Computing Professionals (No longer active) |  |  |
-| 78 | ICCP CDP | ICCP Certified Data Professional | | **Retired** |
-| 79 | ICCP DGSP | ICCP Data Governance and Stewardship Professional | | **Retired** |
-| 80 | | IFRS Diploma | "DipIFR" | |
-| 81 | INFORMS-CAP | Certified Analytics Professional | "INFORMS CAP" | |
-| 82 | | ISO 27001:2013 Lead Auditor | "ISO 27001 Lead Auditor training" | Various providers |
-| 83 | ISTQB | International Software Testing Qualifications Board (Various certifications) | "ISTQB certifications" | |
-| 84 | JD | Juris Doctor |  | Law degree, not a certification |
-| 85 | | LEED Accreditation | "USGBC LEED credentials" | |
-| 86 | MAI | Member, Appraisal Institute | "Appraisal Institute MAI" | |
-| 87 | MBCP | Master Business Continuity Professional | "DRII MBCP" | |
-| 88 | MCSA | Microsoft Certified Solutions Associate (Many specializations retired - search for current role-based certs) | "Microsoft certifications" + *area of interest* | |
-| 89 | MCSD | Microsoft Certified Solutions Developer (Retired - search for current role-based certs) | "Microsoft certifications developer" | |
-| 90 | | Microsoft Certified Azure Data Scientist Associate | | **Retired** - search for current Azure data science role-based certifications |
-| 91 | | Microsoft Certified Solutions Architect - Expert | "Microsoft Certified: Azure Solutions Architect Expert" |  |
-| 92 | | Microsoft Certified Solutions Associate - Power BI | "Microsoft Certified: Power BI Data Analyst Associate" | Was previously MCSA |
-| 93 | | Microsoft Certified Solutions Associate- SQL 2016 BI Development | | **Retired** - search current Microsoft Data certifications |
-| 94 | | Microsoft Certified Solutions Associate- SQL 2016 Database Development | | **Retired** - search current Microsoft Data certifications |
-| 95 | | Microsoft Certified Systems Engineer - Data Management and Analytics | | **Retired** - search current role-based certifications |
-| 96 | | Microsoft Certified: Azure Data Engineer Associate | "Microsoft Certified: Azure Data Engineer Associate" | |
-| 97 | | Microsoft Certified: Azure Database Administrator Associate | "Microsoft Certified: Azure Database Administrator Associate" | |
-| 98 | | Microsoft Certified: Azure Fundamentals | "Microsoft Certified: Azure Fundamentals" | |
-| 99 | | Microsoft certified: Data analysts associate | | Check Microsoft's learn platform |
-| 100 | | Microsoft Professional Program in Data Science | "Microsoft Professional Program for Data Science" | No longer offered by Microsoft |
-| 101 | | Network+ AFT | "CompTIA Network+" | AFT may be training specific, CompTIA offers standard Network+ |
-| 102 | OSCP | Offensive Security Certified Professional | "Offensive Security OSCP" | |
-| 103 | | Oracle Certified Expert (For various products) | "Oracle certifications" + *[product name]* | |
-| 104 | OSCE | Oracle Certified Associate, Java SE 8 Programmer | "Oracle Certified Associate Java" | |
-| 105 | | Others |  | Not a certification |
-| 106 | PE | Professional Engineer (Licensing varies by location) | "Professional Engineer license" + *[location]* | |
-| 107 | PMP | Project Management Professional | "PMI PMP" | |
-| 108 | PRM | Professional Risk Manager | "PRMIA PRM" | |
-| 109 | PRMIA CCRM | PRMIA Certified Credit Risk Manager | "PRMIA CCRM" | |
-| 110 | PRMIA M1ARM | PRMIA Market Risk Management Certificate | "PRMIA M1ARM" | |
-| 111 | PRMIA ORM | PRMIA Operational Risk Manager | "PRMIA ORM" | |
-| 112 | | Professional Cloud Security Engineer for GCP | "Google Cloud Professional Cloud Security Engineer" | |
-| 113 | RAC | (Ambiguous) |  |  |
-| 114 | | Registered General Securities Principal (FINRA) / Registered Representative (FINRA) | "FINRA licenses" | Licenses, not certifications |
-| 115 | RICS | Royal Institution of Chartered Surveyors (Various qualifications) | "RICS qualifications" |  |
-| 116 | RSS | (Ambiguous) |  |  |
-| 117 | | SABSA (Practitioner Level) | "SABSA certifications" | |
-| 118 | | SANS GIAC GCTI | "SANS GCTI" | |
-| 119 | | SAP Certified Technology Associate - System Administration (SAP HANA as a Database) with SAP NetWeaver 7.5 (C_TADM55_75) |  | Check SAP website for current versions |
-| 120 | | SAP Certified Technology Associate - System Administration (SAP HANA) with SAP NetWeaver 7.5 (C_TADM55_75) |  | Check SAP website for current versions |
-| 121 | | SAP Certified Technology Professional - System Security Architect (P_TSEC10_75) |  | Check SAP website for current versions |
-| 122 | | SAP S/4 HANA Treasury Certification |  | Check SAP website for current versions |
-| 123 | | SAS Advanced Programming |  | Check SAS website for current certifications |
-| 124 | | SAS Base programming |  | Check SAS website for current certifications |
-| 125 | | SAS Certified Advanced Analytics Professional |  | Check SAS website for current certifications |
-| 126 | | SAS Certified Big Data Professional |  | Check SAS website for current certifications |
-| 127 | | SAS Certified Data Scientist |  | Check SAS website for current certifications |
-| 128 | | SAS Statistical Business Analyst |  | Check SAS website for current certifications |
-| 129 | | Scrum Master (Various providers) | "Scrum Master certification" (e.g., Scrum.org, Scrum Alliance) | |
-| 130 | | Six Sigma (Various levels and providers) | "Six Sigma certification" (e.g., ASQ, IASSC) | |
-| 131 | | State Licensed Real Estate Appraisers (Varies by location) | "Real estate appraiser license" + *[location]* | |
-| 132 | | The AWS Certified Security - Specialty | "AWS Certified Security - Specialty" | |
+| S.No. | Abbreviation | Full Name/Description | Suggested Search Term | Notes | Web Search Link | Job Role(s) |
+|---|---|---|---|---|---|---|
+| 126 |   | SAS Certified Big Data Professional |  | Check SAS website for current certifications | [https://www.sas.com/en_us/certification/credentials.html](https://www.sas.com/en_us/certification/credentials.html) | Data Scientist, Data Engineer, Big Data Analyst |
+Okay, here's the continuation of the table, with the remaining entries completed with "Web Search Link" and "Job Role(s)" columns:
 
+| S.No. | Abbreviation | Full Name/Description | Suggested Search Term | Notes | Web Search Link | Job Role(s) |
+|---|---|---|---|---|---|---|
+| 127 |  | SAS Certified Data Scientist |  | Check SAS website for current certifications | [https://www.sas.com/en_us/certification/credentials.html](https://www.sas.com/en_us/certification/credentials.html) | Data Scientist, Machine Learning Engineer |
+| 128 |  | SAS Statistical Business Analyst |  | Check SAS website for current certifications | [https://www.sas.com/en_us/certification/credentials.html](https://www.sas.com/en_us/certification/credentials.html) | Business Analyst, Statistical Analyst |
+| 129 |  | Scrum Master (Various providers) | "Scrum Master certification" (e.g., Scrum.org, Scrum Alliance) | | [https://www.scrum.org/](https://www.scrum.org/) or [https://www.scrumalliance.org/](https://www.scrumalliance.org/) | Scrum Master, Agile Coach, Project Manager |
+| 130 |  | Six Sigma (Various levels and providers) | "Six Sigma certification" (e.g., ASQ, IASSC) | | [https://asq.org/cert/six-sigma](https://asq.org/cert/six-sigma) or [https://www.iassc.org/](https://www.iassc.org/) | Process Improvement Specialist, Quality Analyst, Operations Manager |
+| 131 |  | State Licensed Real Estate Appraisers (Varies by location) | "Real estate appraiser license" + *[location]* | |  | Real Estate Appraiser |
+| 132 |  | The AWS Certified Security - Specialty | "AWS Certified Security - Specialty" | | [https://aws.amazon.com/certification/certified-security-specialty/](https://aws.amazon.com/certification/certified-security-specialty/) | Cloud Security Engineer, Security Architect |
