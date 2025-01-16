@@ -14,30 +14,25 @@ This repository contains comprehensive tutorial notes for various subjects, orga
 ### IV Semester
 
 *   **Subjects:**
-     *  [Design and Analysis of Algorithms]()
+     *  [Design and Analysis of Algorithms](https://github.com/rahulchirra/SEMESTERS/blob/main/IV%20SEMESTER/DAA/DAA%20-%20Tutorial.md)
 
 ### V Semester
 
 *   **Subjects:**
-    *   [Big Data Analytics]()
-    *   [Data Communications and Computer Networks]()
-    *   [Artificial Intelligence]()
-    *  [Software Engineering]()
+    *   [Big Data Analytics](https://github.com/rahulchirra/SEMESTERS/blob/main/V%20SEMESTER/BIG%20DATA%20ANALYTICS%20/BDA%20-%20tutorial.md)
+    *   [Data Communications and Computer Networks](https://github.com/rahulchirra/SEMESTERS/blob/main/V%20SEMESTER/DATA%20COMMUNICATIONS%20AND%20COMPUTER%20NETWORKS./DCCN%20-%20Tutorial.md)
+    *   [Artificial Intelligence](https://github.com/rahulchirra/SEMESTERS/blob/main/V%20SEMESTER/ARTIFICIAL%20INTELLIGENCE%20/AI%20-%20Tutorial.md)
+    *  [Software Engineering](https://github.com/rahulchirra/SEMESTERS/blob/main/V%20SEMESTER/SOFTWARE%20ENGINEERING/SE%20tutorial.md)
 
 ### VI Semester
 
 *  **Subjects:**
-    * [Cloud Computing](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#cloud-computing)
-    * [Data Visualization Techniques](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#data-visualization-techniques)
-    * [Theory of Computation](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#theory-of-computation)
-    * [Entrepreneurship Development](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#entrepreneurship-development)
-    * [Machine Learning](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#machine-learning)
-    * [Cloud Computing Lab](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#cloud-computing-lab)
-    * [Machine Learning Lab](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#machine-learning-lab)
-     *   [Data Visualization Techniques Lab](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#data-visualization-techniques-lab)
-    * [Logical Reasoning and Quantitative Aptitude](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#logical-reasoning-and-quantitative-aptitude)
-    *  [Project Based Learning-4](SEMESTERS/VI%20SEMESTER/Update%20LRQA%20-%20Tutorial.md#project-based-learning-4)
-
+    * [Cloud Computing](https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/CLOUD%20COMPUTING%20/Cloud%20computing%20.md)
+    * [Data Visualization Techniques](https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/DATA%20VISUALIZATION%20TECHNIQUES/DVT%20-tutorial.md)
+    * [Theory of Computation](https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/THEORY%20OF%20COMPUTATION/TOC%20-%20tutorial%20.md)
+    * [Entrepreneurship Development](https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/ENTREPRENEURSHIP%20DEVELOPMENT/ED%20-%20tutorial.md)
+    * [Machine Learning](https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/MACHINE%20LEARNING%20/ML%20-%20tutorial.md)
+    * [Logical Reasoning and Quantitative Aptitude](https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/LOGICAL%20REASONING%20AND%20QUANTITATIVE%20APTITUDE/LRQA%20-%20tutorial.md)
 ---
 **Note**: These links are relative and are designed to work correctly within a GitHub repository or similar environment. The links will take you to a section on the respective file.
 ```
