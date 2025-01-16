@@ -11,7 +11,7 @@ Hello! 👋 This repository contains organized tutorial notes, curated with care
 ## 📑 Explore the Tutorials
 
 <div align="center">
-  <a href="https://time.is/">See the Current Time Here 🕒</a>
+   <img src="URL_OF_YOUR_UPDATED_IMAGE.png" alt="Current Time" width="200"/>
 </div>
 
 <br>
@@ -49,12 +49,12 @@ Hello! 👋 This repository contains organized tutorial notes, curated with care
 ### 🌌 VI Semester
 
 <ul style="list-style: none; padding-left: 0;">
-     <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/CLOUD%20COMPUTING%20/Cloud%20computing%20.md">▸ Cloud Computing</a></li>
+    <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/CLOUD%20COMPUTING%20/Cloud%20computing%20.md">▸ Cloud Computing</a></li>
     <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/DATA%20VISUALIZATION%20TECHNIQUES/DVT%20-tutorial.md">▸ Data Visualization Techniques</a></li>
     <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/THEORY%20OF%20COMPUTATION/TOC%20-%20tutorial%20.md">▸ Theory of Computation</a></li>
-     <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/ENTREPRENEURSHIP%20DEVELOPMENT/ED%20-%20tutorial.md">▸ Entrepreneurship Development</a></li>
+    <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/ENTREPRENEURSHIP%20DEVELOPMENT/ED%20-%20tutorial.md">▸ Entrepreneurship Development</a></li>
     <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/MACHINE%20LEARNING%20/ML%20-%20tutorial.md">▸ Machine Learning</a></li>
-     <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/LOGICAL%20REASONING%20AND%20QUANTITATIVE%20APTITUDE/LRQA%20-%20tutorial.md">▸ Logical Reasoning & Aptitude</a></li>
+    <li><a href="https://github.com/rahulchirra/SEMESTERS/blob/main/VI%20SEMESTER/LOGICAL%20REASONING%20AND%20QUANTITATIVE%20APTITUDE/LRQA%20-%20tutorial.md">▸ Logical Reasoning & Aptitude</a></li>
 </ul>
 <br>
 
